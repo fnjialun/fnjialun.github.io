@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-08T10:50:56.746Z</updated>
+  <updated>2018-08-17T17:44:39.252Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,9 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>VPS教程</title>
+    <link href="http://yoursite.com/2018/08/17/VPS%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2018/08/17/VPS教程/</id>
+    <published>2018-08-17T12:35:52.000Z</published>
+    <updated>2018-08-17T17:44:39.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>VPS选用CentOS6系统（至于怎么买VPS，网上有很多教程，本人推荐Vultr与谷歌云，现在Vultr有返美金的活动，谷歌云也可以免费赠送300美金用一年，具体可百度）<br><a id="more"></a><br>注意要通过这个链接注册：<a href="https://www.vultr.com/?ref=7507198" target="_blank" rel="noopener">https://www.vultr.com/?ref=7507198</a>        </p><p>谷歌云的话需要一张国外的信用卡 Visa MonsterCard AmericanExpress均可</p><p>首先进入Xshell  （百度下载！）</p><p>然后点击新建，将里面的主机填写你的VPS的IP，然后点击确定，之后输入你VPS的用户名密码即可。</p><p>最前面显示root@xxxx说明链接成功，可以输入代码操作了！</p><p>复制代码 wget -N –no-check-certificate <a href="https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh</a> &amp;&amp; bash bbr.sh install</p><p>安装完毕之后 选择重启 Y</p><p>这里会断开连接，大家可以等待几秒钟后重新连接。</p><p>之后输入 bash bbr.sh start</p><p> 然后 wget –no-check-certificate <a href="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh</a> &amp;&amp; chmod +x shadowsocksR.sh</p><p>最后输入 ./shadowsocksR.sh 安装SSR</p><p>期间根据提示操作即可 注意记住端口号与密码</p><p>其他一路回车（也可自行选择混淆 协议）</p><p>在最后出现红底数据以后，Enjoy it ！！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;VPS选用CentOS6系统（至于怎么买VPS，网上有很多教程，本人推荐Vultr与谷歌云，现在Vultr有返美金的活动，谷歌云也可以免费赠送300美金用一年，具体可百度）&lt;br&gt;
+    
+    </summary>
+    
+      <category term="作品" scheme="http://yoursite.com/categories/%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="网络" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大鱼海棠</title>
-    <link href="http://yoursite.com/2018/08/08/article%20-%20%E5%89%AF%E6%9C%AC%20(2)%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/08/08/article - 副本 (2) - 副本 - 副本 - 副本/</id>
+    <link href="http://yoursite.com/2018/08/08/%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0/"/>
+    <id>http://yoursite.com/2018/08/08/大鱼海棠/</id>
     <published>2018-08-08T10:50:02.000Z</published>
     <updated>2018-08-08T10:50:56.746Z</updated>
     
@@ -40,8 +62,8 @@
   
   <entry>
     <title>《从你的全世界路过》</title>
-    <link href="http://yoursite.com/2018/08/05/article%20-%20%E5%89%AF%E6%9C%AC%20(3)%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/08/05/article - 副本 (3) - 副本 - 副本 - 副本/</id>
+    <link href="http://yoursite.com/2018/08/05/%E3%80%8A%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87%E3%80%8B/"/>
+    <id>http://yoursite.com/2018/08/05/《从你的全世界路过》/</id>
     <published>2018-08-05T02:57:10.000Z</published>
     <updated>2018-08-05T08:00:45.799Z</updated>
     
@@ -62,8 +84,8 @@
   
   <entry>
     <title>20岁无资本无未来</title>
-    <link href="http://yoursite.com/2018/07/31/article%20-%20%E5%89%AF%E6%9C%AC%20(3)%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/07/31/article - 副本 (3) - 副本 - 副本/</id>
+    <link href="http://yoursite.com/2018/07/31/20%E5%B2%81%E6%97%A0%E8%B5%84%E6%9C%AC%E6%97%A0%E6%9C%AA%E6%9D%A5/"/>
+    <id>http://yoursite.com/2018/07/31/20岁无资本无未来/</id>
     <published>2018-07-31T15:01:10.000Z</published>
     <updated>2018-08-05T08:12:54.088Z</updated>
     
@@ -84,8 +106,8 @@
   
   <entry>
     <title>不爱你，不度生</title>
-    <link href="http://yoursite.com/2018/07/31/article%20-%20%E5%89%AF%E6%9C%AC%20(2)%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/07/31/article - 副本 (2) - 副本 - 副本/</id>
+    <link href="http://yoursite.com/2018/07/31/%E4%B8%8D%E7%88%B1%E4%BD%A0%EF%BC%8C%E4%B8%8D%E5%BA%A6%E7%94%9F/"/>
+    <id>http://yoursite.com/2018/07/31/不爱你，不度生/</id>
     <published>2018-07-31T15:00:56.000Z</published>
     <updated>2018-08-05T08:06:50.568Z</updated>
     
@@ -106,8 +128,8 @@
   
   <entry>
     <title>无题2</title>
-    <link href="http://yoursite.com/2018/07/31/article%20-%20%E5%89%AF%E6%9C%AC%20(2)%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/07/31/article - 副本 (2) - 副本/</id>
+    <link href="http://yoursite.com/2018/07/31/%E6%97%A0%E9%A2%982/"/>
+    <id>http://yoursite.com/2018/07/31/无题2/</id>
     <published>2018-07-31T10:30:56.000Z</published>
     <updated>2018-08-05T08:07:25.540Z</updated>
     
@@ -128,8 +150,8 @@
   
   <entry>
     <title>无题</title>
-    <link href="http://yoursite.com/2018/07/31/article%20-%20%E5%89%AF%E6%9C%AC%20(2)/"/>
-    <id>http://yoursite.com/2018/07/31/article - 副本 (2)/</id>
+    <link href="http://yoursite.com/2018/07/31/%E6%97%A0%E9%A2%98/"/>
+    <id>http://yoursite.com/2018/07/31/无题/</id>
     <published>2018-07-31T10:22:56.000Z</published>
     <updated>2018-08-05T08:07:46.450Z</updated>
     
@@ -150,8 +172,8 @@
   
   <entry>
     <title>念在天涯，心在咫尺</title>
-    <link href="http://yoursite.com/2018/07/31/article%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2018/07/31/article - 副本/</id>
+    <link href="http://yoursite.com/2018/07/31/%E5%BF%B5%E5%9C%A8%E5%A4%A9%E6%B6%AF%EF%BC%8C%E5%BF%83%E5%9C%A8%E5%92%AB%E5%B0%BA/"/>
+    <id>http://yoursite.com/2018/07/31/念在天涯，心在咫尺/</id>
     <published>2018-07-31T08:02:56.000Z</published>
     <updated>2018-08-05T08:08:45.736Z</updated>
     
@@ -172,8 +194,8 @@
   
   <entry>
     <title>恰同学少年，于斯为盛</title>
-    <link href="http://yoursite.com/2018/07/31/article/"/>
-    <id>http://yoursite.com/2018/07/31/article/</id>
+    <link href="http://yoursite.com/2018/07/31/%E6%81%B0%E5%90%8C%E5%AD%A6%E5%B0%91%E5%B9%B4%EF%BC%8C%E4%BA%8E%E6%96%AF%E4%B8%BA%E7%9B%9B/"/>
+    <id>http://yoursite.com/2018/07/31/恰同学少年，于斯为盛/</id>
     <published>2018-07-31T06:46:56.000Z</published>
     <updated>2018-08-05T08:09:07.681Z</updated>
     
