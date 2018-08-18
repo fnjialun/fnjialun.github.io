@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-17T17:44:39.252Z</updated>
+  <updated>2018-08-18T18:22:01.492Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VPS教程(修改版)</title>
+    <link href="http://yoursite.com/2018/08/18/VPS%E6%95%99%E7%A8%8B(%E4%BF%AE%E6%94%B9%E7%89%88)/"/>
+    <id>http://yoursite.com/2018/08/18/VPS教程(修改版)/</id>
+    <published>2018-08-18T07:35:52.000Z</published>
+    <updated>2018-08-18T18:22:01.492Z</updated>
+    
+    <content type="html"><![CDATA[<p>推荐Vultr，注意要通过这个链接注册：<a href="https://www.vultr.com/?ref=7507198" target="_blank" rel="noopener">https://www.vultr.com/?ref=7507198</a> 返美金  系统注意选择CentOS6        </p><a id="more"></a><p>首先进入Xshell  （百度下载！）</p><p>然后点击新建，将里面的主机填写你的VPS的IP，然后点击确定，之后输入你VPS的用户名密码即可。</p><p>最前面显示root@xxxx说明链接成功，可以输入代码操作了！</p><p>复制代码  um -y install wget</p><p>wget -N –no-check-certificate <a href="https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh</a> &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh</p><p>进入SSR一键管理脚本</p><p>然后按1进行安装</p><p>期间根据提示操作即可 注意记住端口号与密码</p><p>其他一路回车（也可自行选择混淆 协议）</p><p>在最后出现红底数据以后，Enjoy it ！！</p><p>但是这样搭建的SSR速度是比较慢的，因此我们选择锐速加速</p><p>首先输入    wget -N –no-check-certificate <a href="https://freed.ga/kernel/ruisu.sh" target="_blank" rel="noopener">https://freed.ga/kernel/ruisu.sh</a> &amp;&amp; bash ruisu.sh       修改内核</p><p>之后输入 bash ssr.sh （可以通过这个命令进入SSR一键管理脚本）</p><p>选择14 其他功能   选择2 锐速</p><p>之后根据提示操作即可</p><p>enjoy your network right now ！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;推荐Vultr，注意要通过这个链接注册：&lt;a href=&quot;https://www.vultr.com/?ref=7507198&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.vultr.com/?ref=7507198&lt;/a&gt; 返美金  系统注意选择CentOS6        &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="作品" scheme="http://yoursite.com/categories/%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="网络" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>VPS教程</title>
