@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-18T18:22:01.492Z</updated>
+  <updated>2018-08-19T08:22:08.842Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用hexo搭建个人博客</title>
+    <link href="http://yoursite.com/2018/08/19/%E5%88%A9%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/08/19/利用hexo搭建个人博客/</id>
+    <published>2018-08-19T01:35:52.000Z</published>
+    <updated>2018-08-19T08:22:08.842Z</updated>
+    
+    <content type="html"><![CDATA[<p>相信大家可能会问，现在什么时代了，谁还写博客   有疑问的话</p><p>请看这篇文章  <a href="https://link.jianshu.com/?t=http://zhuanlan.zhihu.com/cnfeat/19743861" target="_blank" rel="noopener">为什么你要写博客</a></p><a id="more"></a><p>首先搭建过程一共分为几步<br>安装Git Bash<br>安装NodeJs<br>安装hexo<br>生成SSH并添加到github<br>部署项目</p><p>我们依次开始吧！！！</p><ol><li>安装Git Bash</li></ol><p><a href="https://git-for-windows.github.io/" target="_blank" rel="noopener">下载地址</a><br>安装步骤：双击下载好的exe文件，一路next就好啦</p><ol start="2"><li>安装NodeJs<br>Hexo是基于nodeJS环境的静态博客，里面的npm工具很有用啊，所以还是老老实实把这玩意儿装了吧</li></ol><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a>(说明：LTS为长期支持版，Current为当前最新版)<br>安装步骤：反正下载好msi文件后，双击打开安装，也是一路next，不过在Custom Setup这一步记得选 Add to PATH </p><ol start="3"><li>安装hexo<br>看到这么多安装，千万不要紧张，小哥哥小姐姐们一定要稳住，别怕，因为后面的东西都是在gitbash中用npm工具安装就好了。</li></ol><p>先在电脑里创建一个文件夹（用来存放所有blog的东西）如d:/blog/hexo，<br>在hexo文件夹里右键点击Git Bash Here<br>输入安装hexo命令：npm i -g hexo 安装完毕之后<br>输入初始化命令：hexo init</p><ol start="4"><li>连接到github<br>没账号的创建账号，有账号的看下面。<br>创建一个repository，名称为yourname.github.io, 其中yourname是你的github名称，按照这个规则创建才有用哦</li></ol><p>创建完毕之后在hexo文件夹里右键点击Git Bash Here<br>输入 git config –global user.name “YourName”  与  git config –global user.email “YouEmail”<br>把这里的 YourName 跟 YourEmail 改成你自己的</p><p>之后输入  ssh-keygen -t rsa -C “<a href="mailto:youremail@example.com" target="_blank" rel="noopener">youremail@example.com</a> ，生成ssh，注意改成刚才输入的邮箱<br>之后根据提示操作，最后会形成一段代码就是你的SSH密钥</p><p>然后在你的Github首页菜单栏中点击 Settings –&gt; Deploy keys –&gt; Add deploy key，然后将生成的代码中的内容全选复制到 key 输入框中，名字可以随意，然后点击 Add key 完成添加公钥。</p><p>之后打开hexo_的 config.yml文件，修改里面的最后 </p><p>deploy:<br>  type: git<br>  repo: <a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:yourname/yourname.github.io.git<br>  branch: master</p><p>之后在git里输入  npm install hexo-deployer-git –save</p><p>然后 hexo d -g  即可在 <a href="https://yourname.github.io/" target="_blank" rel="noopener">https://yourname.github.io/</a> 查看到默认的hexo博客</p><ol start="5"><li>部署项目<br>新建文章：在git下输入 hexo new ‘文章名’，然后你就可以在source/posts路径下看到你创建的文章啦，然后用记事本打开即可进行编辑</li></ol><p>之后输入 hexo s 可进行本地查看，在地址栏中输入 <a href="http://localhost:4000/" target="_blank" rel="noopener">http://localhost:4000/</a> 即可，满足要求之后</p><p>可输入 hexo d -g 发布到你的GitHub Pages上！！</p><p>本期教程到此结束！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;相信大家可能会问，现在什么时代了，谁还写博客   有疑问的话&lt;/p&gt;
+&lt;p&gt;请看这篇文章  &lt;a href=&quot;https://link.jianshu.com/?t=http://zhuanlan.zhihu.com/cnfeat/19743861&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;为什么你要写博客&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="作品" scheme="http://yoursite.com/categories/%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="网络" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>VPS教程(修改版)</title>
@@ -43,9 +66,9 @@
     <link href="http://yoursite.com/2018/08/17/VPS%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2018/08/17/VPS教程/</id>
     <published>2018-08-17T12:35:52.000Z</published>
-    <updated>2018-08-17T17:44:39.252Z</updated>
+    <updated>2018-08-19T07:22:59.742Z</updated>
     
-    <content type="html"><![CDATA[<p>VPS选用CentOS6系统（至于怎么买VPS，网上有很多教程，本人推荐Vultr与谷歌云，现在Vultr有返美金的活动，谷歌云也可以免费赠送300美金用一年，具体可百度）<br><a id="more"></a><br>注意要通过这个链接注册：<a href="https://www.vultr.com/?ref=7507198" target="_blank" rel="noopener">https://www.vultr.com/?ref=7507198</a>        </p><p>谷歌云的话需要一张国外的信用卡 Visa MonsterCard AmericanExpress均可</p><p>首先进入Xshell  （百度下载！）</p><p>然后点击新建，将里面的主机填写你的VPS的IP，然后点击确定，之后输入你VPS的用户名密码即可。</p><p>最前面显示root@xxxx说明链接成功，可以输入代码操作了！</p><p>复制代码 wget -N –no-check-certificate <a href="https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh</a> &amp;&amp; bash bbr.sh install</p><p>安装完毕之后 选择重启 Y</p><p>这里会断开连接，大家可以等待几秒钟后重新连接。</p><p>之后输入 bash bbr.sh start</p><p> 然后 wget –no-check-certificate <a href="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh</a> &amp;&amp; chmod +x shadowsocksR.sh</p><p>最后输入 ./shadowsocksR.sh 安装SSR</p><p>期间根据提示操作即可 注意记住端口号与密码</p><p>其他一路回车（也可自行选择混淆 协议）</p><p>在最后出现红底数据以后，Enjoy it ！！</p>]]></content>
+    <content type="html"><![CDATA[<p>VPS选用CentOS6系统（至于怎么买VPS，网上有很多教程，本人推荐Vultr与谷歌云，现在Vultr有返美金的活动，谷歌云也可以免费赠送300美金用一年，具体可百度）<br><a id="more"></a><br>注意要通过这个链接注册：<a href="https://www.vultr.com/?ref=7507198" target="_blank" rel="noopener">https://www.vultr.com/?ref=7507198</a>        </p><p>谷歌云的话需要一张国外的信用卡 Visa MonsterCard AmericanExpress均可</p><p>首先进入Xshell  （百度下载！）</p><p>然后点击新建，将里面的主机填写你的VPS的IP，然后点击确定，之后输入你VPS的用户名密码即可。</p><p>最前面显示root@xxxx说明链接成功，可以输入代码操作了！</p><p>复制代码 wget -N –no-check-certificate <a href="https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh</a> &amp;&amp; bash bbr.sh install</p><p>安装完毕之后 选择重启 Y</p><p>这里会断开连接，大家可以等待几秒钟后重新连接。</p><p>之后输入 bash bbr.sh start</p><p>然后 wget –no-check-certificate <a href="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh" target="_blank" rel="noopener">https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh</a> &amp;&amp; chmod +x shadowsocksR.sh</p><p>最后输入 ./shadowsocksR.sh 安装SSR</p><p>期间根据提示操作即可 注意记住端口号与密码</p><p>其他一路回车（也可自行选择混淆 协议）</p><p>在最后出现红底数据以后，Enjoy it ！！</p>]]></content>
     
     <summary type="html">
     
