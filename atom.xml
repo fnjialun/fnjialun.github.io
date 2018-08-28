@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-19T08:28:08.785Z</updated>
+  <updated>2018-08-28T15:23:16.713Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开学前的最后一篇</title>
+    <link href="http://yoursite.com/2018/08/28/%E5%BC%80%E5%AD%A6%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2018/08/28/开学前的最后一篇/</id>
+    <published>2018-08-28T15:01:04.000Z</published>
+    <updated>2018-08-28T15:23:16.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>暑假转眼间就过去了，这篇应该是开学之前的最后一篇了，<br><a id="more"></a><br>没有特殊意义，只是想单纯的纪念一下逝去的暑假</p><p>小鞠镇楼！！！</p><p><img src="/123/img-79b1fc3d255e9b7f74008da5a0e5ba4c.jpg" alt="小鞠镇楼"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;暑假转眼间就过去了，这篇应该是开学之前的最后一篇了，&lt;br&gt;
+    
+    </summary>
+    
+      <category term="作品" scheme="http://yoursite.com/categories/%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
+    
+  </entry>
   
   <entry>
     <title>利用hexo搭建个人博客(小白篇)</title>
