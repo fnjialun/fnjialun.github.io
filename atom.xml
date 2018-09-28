@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-27T15:21:21.042Z</updated>
+  <updated>2018-09-28T05:51:28.245Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>寻一方净土</title>
+    <link href="http://yoursite.com/2018/09/28/%E5%AF%BB%E4%B8%80%E6%96%B9%E5%87%80%E5%9C%9F/"/>
+    <id>http://yoursite.com/2018/09/28/寻一方净土/</id>
+    <published>2018-09-28T05:48:03.000Z</published>
+    <updated>2018-09-28T05:51:28.245Z</updated>
+    
+    <content type="html"><![CDATA[<p>流年似水，悉心收集生命里的每一片记忆，一份陪伴，旖旎了心中的诗画斑斓。</p><a id="more"></a><p>文字的唱和，婉约着情谊绵绵，或阅读，或点赞，方寸空间，总有不期而遇的温暖。</p><p>手指点击键盘，传递美好的心声，像一纸你的扉页，书写着一行真诚，像一叶我的封底，默默载着心中的牵眷。</p><p><img src="/123/4bcfdffee037910-a-nw-p.jpg" alt="1"></p><p>走近文字，可以释放自己，收获一份美好的遇见；喜欢文字，可以不必迎合，只为了抒尽心意。</p><p>笔下光阴，暖心怡然，惬意而清欢……</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;流年似水，悉心收集生命里的每一片记忆，一份陪伴，旖旎了心中的诗画斑斓。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Heart" scheme="http://yoursite.com/categories/Heart/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>9.27-28日总结</title>
+    <link href="http://yoursite.com/2018/09/28/9-27-28%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/09/28/9-27-28日总结/</id>
+    <published>2018-09-28T04:25:22.000Z</published>
+    <updated>2018-09-28T05:47:01.283Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天四节课，不想整理，最近压力比较大，很累，有点休息不过来</p><a id="more"></a><p>总之，生活还得继续下去，那么今天就连着昨天的那份一起整理吧！！</p><h1 id="运输规划"><a href="#运输规划" class="headerlink" title="运输规划"></a>运输规划</h1><h2 id="社会经济预测"><a href="#社会经济预测" class="headerlink" title="社会经济预测"></a>社会经济预测</h2><h3 id="经济预测"><a href="#经济预测" class="headerlink" title="经济预测"></a>经济预测</h3><p>定性预测<br>定量预测</p><h4 id="德尔菲法"><a href="#德尔菲法" class="headerlink" title="德尔菲法"></a>德尔菲法</h4><p>四分位数的计算</p><p>在数列中的位置：i(n+1)/4,其中i=1,2,3，n为数字个数</p><p>具体数值为：(a([i(n+1)/4]+1)-a[i(n+1)/4])*(i(n+1)/4-[i(n+1)/4])+a[i(n+1)/4]<br>其中[x]为不大于x的最大整数</p><h4 id="趋势外推法"><a href="#趋势外推法" class="headerlink" title="趋势外推法"></a>趋势外推法</h4><h5 id="移动平均法"><a href="#移动平均法" class="headerlink" title="移动平均法"></a>移动平均法</h5><h6 id="一次移动平均法"><a href="#一次移动平均法" class="headerlink" title="一次移动平均法"></a>一次移动平均法</h6><p><img src="/123/IMG_20180928_125337.jpg" alt="1"></p><h6 id="二次移动平均法"><a href="#二次移动平均法" class="headerlink" title="二次移动平均法"></a>二次移动平均法</h6><p><img src="/123/IMG_20180928_125608.jpg" alt="2"></p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><p><img src="/123/dsfljdf.png" alt="3"></p><h2 id="静态经济效果评价"><a href="#静态经济效果评价" class="headerlink" title="静态经济效果评价"></a>静态经济效果评价</h2><h3 id="静态投资回收期"><a href="#静态投资回收期" class="headerlink" title="静态投资回收期"></a>静态投资回收期</h3><p>Pt=P-1+第(P-1)年的累计净现金流量的绝对值/第P年的净现金流量</p><p>详见书P39页</p><h3 id="投资收益率"><a href="#投资收益率" class="headerlink" title="投资收益率"></a>投资收益率</h3><p>R=NB/K</p><h2 id="动态经济效果评价"><a href="#动态经济效果评价" class="headerlink" title="动态经济效果评价"></a>动态经济效果评价</h2><h3 id="动态投资回收期"><a href="#动态投资回收期" class="headerlink" title="动态投资回收期"></a>动态投资回收期</h3><p>Pt=累计折现值出现正值的年数-1+上年累计折现值的绝对值/当年净现金流量的绝对值</p><p>详见书P41页</p><h3 id="净现值（NPV）"><a href="#净现值（NPV）" class="headerlink" title="净现值（NPV）"></a>净现值（NPV）</h3><p>详见书P42-43页</p><h1 id="公路运输枢纽规划与设计"><a href="#公路运输枢纽规划与设计" class="headerlink" title="公路运输枢纽规划与设计"></a>公路运输枢纽规划与设计</h1><p>见书P145-158页</p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><h2 id="一般路基设计"><a href="#一般路基设计" class="headerlink" title="一般路基设计"></a>一般路基设计</h2><h3 id="路基典型横断面"><a href="#路基典型横断面" class="headerlink" title="路基典型横断面"></a>路基典型横断面</h3><h4 id="路提"><a href="#路提" class="headerlink" title="路提"></a>路提</h4><p>低路堤 1-1.5m 一般路堤 1.5-20m 高路堤 20m以上</p><h4 id="路堑"><a href="#路堑" class="headerlink" title="路堑"></a>路堑</h4><p>全挖式<br>台口式<br>半山洞</p><h4 id="填挖结合"><a href="#填挖结合" class="headerlink" title="填挖结合"></a>填挖结合</h4><h3 id="路基基本构造"><a href="#路基基本构造" class="headerlink" title="路基基本构造"></a>路基基本构造</h3><p>详见书P114-127页</p><h3 id="路基附属设施"><a href="#路基附属设施" class="headerlink" title="路基附属设施"></a>路基附属设施</h3><p>取土坑与弃土堆<br>护坡道与碎落台<br>堆料坪与错车道</p><h2 id="路基边坡防护与加固设计"><a href="#路基边坡防护与加固设计" class="headerlink" title="路基边坡防护与加固设计"></a>路基边坡防护与加固设计</h2><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><p>坡面防护<br>冲刷防护<br>支挡工程</p><h4 id="坡面防护"><a href="#坡面防护" class="headerlink" title="坡面防护"></a>坡面防护</h4><p>植物防护<br>骨架植物防护<br>圬工防护</p><h4 id="沿河路基防护"><a href="#沿河路基防护" class="headerlink" title="沿河路基防护"></a>沿河路基防护</h4><p>植物防护<br>沏石或混凝土护坡<br>土工织物软体沉排、土工膜袋<br>石笼防护<br>浸水挡土墙<br>护担防护<br>抛石<br>丁坝<br>顺坝</p><h1 id="交通运输调查与分析"><a href="#交通运输调查与分析" class="headerlink" title="交通运输调查与分析"></a>交通运输调查与分析</h1><h2 id="城市居民出行调查"><a href="#城市居民出行调查" class="headerlink" title="城市居民出行调查"></a>城市居民出行调查</h2><h3 id="相关术语"><a href="#相关术语" class="headerlink" title="相关术语"></a>相关术语</h3><p>期望线：连接各个小区形心的直线，代表了小区之间的出行，其宽度通常根据出行数大小而定<br>主流线：期望线的合并汇总</p><h3 id="发展"><a href="#发展" class="headerlink" title="发展"></a>发展</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"># 结尾</span><br><span class="line"></span><br><span class="line">按照惯例</span><br><span class="line"></span><br><span class="line">![10](/123/FB_IMG_1537713359705.jpg) </span><br><span class="line"></span><br><span class="line">期待下一次的相遇</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天四节课，不想整理，最近压力比较大，很累，有点休息不过来&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
+    
+    
+      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
+    
+  </entry>
   
   <entry>
     <title>what are you gonna be</title>
@@ -65,7 +109,7 @@
     <link href="http://yoursite.com/2018/09/25/%E6%A2%A6%E9%86%92%E6%97%B6%E8%A7%81%E4%BD%A0/"/>
     <id>http://yoursite.com/2018/09/25/梦醒时见你/</id>
     <published>2018-09-25T13:00:35.000Z</published>
-    <updated>2018-09-25T13:53:33.171Z</updated>
+    <updated>2018-09-28T05:48:36.202Z</updated>
     
     <content type="html"><![CDATA[<p>林深时见鹿，海蓝时见鲸，梦醒时见你<br>可实际，林深时雾起，海蓝时浪涌，梦醒时夜续 未见鹿，未见鲸，亦未见你<br>但：鹿踏雾而来，鲸随浪而起，你没回头又怎知我没来<br>然，林深时雾起，不知归处； 海蓝时浪涌，望而却步； 梦醒时夜续，惊慌失措。 鹿不在侧，鲸不予游，亦不见你<br>等，风吹深林雾，海映晴空蓝， 你唤我梦醒，便可见鹿见鲸，亦见你</p><a id="more"></a><p>似乎要说些什么，能说的却又十分有限。时间太少又太忙碌，却又不知道为什么忙碌，在自己耗尽全身力气后得不到反馈，像个机器人一样得到指令后，去完成就好了。但就算是R2-D2也需要释放。这段时间，似乎书籍、影视我已经好久没看过了，虽还不至于难以接受，但像是手机电量低于30%开启了低电量模式，焦虑感让空气都变得粘稠。<br>个人将迎来第二十七年的更新补丁：<br>——修复了熬夜两天还能继续嗨的BUG<br>——精力恢复速度，数据下调为原来的2/3<br>——油腻食品的消化能力向下微调<br>——提高了转眼就忘事儿的几率<br>——本次更新强制进行，不可取消</p><p>我好像出故障了<br>我爬上了门，打开楼梯，穿上祷告，说完了睡衣，然后关了床，钻上灯<br>全都因为你对我说了声晚安</p><p><img src="/123/113412_445167850_3_642_898.jpg" alt="1"></p><p>程序出错<br>这是不该有的结果</p><p><img src="/123/IMG_20180925_130935_694.jpg" alt="2"></p><p>走出维修站，我焕然一新，全身的零件几乎全部换了新的，却依然摆脱不了这种故障。眼球镜头捕捉的画面全是你的音容笑貌。<br>频繁的故障导致我无法进行正常工作，我被丢在废弃工厂，在即将被推入液压报废器的那一刻，我作了首诗<br>“这里是我的心<br>奇迹般万物生长<br>后来你来这走了一遭<br>这里荒芜寸草不生“<br>液压机器挤压着我变形的脸，眼睛里闪动着慑人的红色光芒<br>奇怪，我还是第一次感受到这种想要活下去的欲望<br>我现在的样子……一定很可怖吧…<br>这小诗，也可以倒过来读</p>]]></content>
     
@@ -75,10 +119,10 @@
     
     </summary>
     
-      <category term="网络摘抄" scheme="http://yoursite.com/categories/%E7%BD%91%E7%BB%9C%E6%91%98%E6%8A%84/"/>
+      <category term="Heart" scheme="http://yoursite.com/categories/Heart/"/>
     
     
-      <category term="heart" scheme="http://yoursite.com/tags/heart/"/>
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
@@ -409,50 +453,6 @@
     
     
       <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开学前的最后一篇</title>
-    <link href="http://yoursite.com/2018/08/28/%E5%BC%80%E5%AD%A6%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87/"/>
-    <id>http://yoursite.com/2018/08/28/开学前的最后一篇/</id>
-    <published>2018-08-28T15:01:04.000Z</published>
-    <updated>2018-09-06T04:41:04.400Z</updated>
-    
-    <content type="html"><![CDATA[<p>暑假转眼间就过去了，这篇应该是开学之前的最后一篇了，<br><a id="more"></a><br>没有特殊意义，只是想单纯的纪念一下逝去的暑假</p><p>小鞠镇楼！！！</p><p><img src="/123/img-79b1fc3d255e9b7f74008da5a0e5ba4c.jpg" alt="小鞠镇楼"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;暑假转眼间就过去了，这篇应该是开学之前的最后一篇了，&lt;br&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>史上最全游戏合集</title>
-    <link href="http://yoursite.com/2018/08/27/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/"/>
-    <id>http://yoursite.com/2018/08/27/史上最全游戏合集/</id>
-    <published>2018-08-27T01:01:04.000Z</published>
-    <updated>2018-08-28T16:15:57.109Z</updated>
-    
-    <content type="html"><![CDATA[<p>热门游戏集合，各种3A大作都有</p><a id="more"></a><p>若电脑提示缺少DLL </p><p>下载 [DX修复工具] 修复</p><p> <a href="https://pan.baidu.com/s/1nuLFVwX" target="_blank" rel="noopener">https://pan.baidu.com/s/1nuLFVwX</a></p><p>1.GTA5 原版(最稳当的GTA5版本，建议下载这个版本)</p><p>链接：<a href="https://pan.baidu.com/s/1snn1bNv" target="_blank" rel="noopener">https://pan.baidu.com/s/1snn1bNv</a> </p><p>密码：0lq4</p><p>2.GTA4</p><p>链接: <a href="https://pan.baidu.com/s/1eTOKoyI" target="_blank" rel="noopener">https://pan.baidu.com/s/1eTOKoyI</a> </p><p>密码: hcwv</p><p>3.GTA4：自由城之章</p><p>链接: <a href="https://pan.baidu.com/s/1o8XHi0E" target="_blank" rel="noopener">https://pan.baidu.com/s/1o8XHi0E</a> </p><p>密码: h5hj</p><p>4.GTA圣安地列斯</p><p>链接: <a href="https://pan.baidu.com/s/1jJPsc2i" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJPsc2i</a> </p><p>密码: dayu</p><p>5.英雄传说 闪之轨迹</p><p>链接: <a href="https://pan.baidu.com/s/1dqw28u" target="_blank" rel="noopener">https://pan.baidu.com/s/1dqw28u</a> </p><p>密码: mycs</p><p>6.模拟老鼠</p><p>链接: <a href="https://pan.baidu.com/s/1bq692ur" target="_blank" rel="noopener">https://pan.baidu.com/s/1bq692ur</a> </p><p>密码: n8y7</p><p>7.幽灵行动荒野</p><p>链接: <a href="https://pan.baidu.com/s/1sm4LPIP" target="_blank" rel="noopener">https://pan.baidu.com/s/1sm4LPIP</a> </p><p>密码: 3crm</p><p>8.FIFA17</p><p>链接: <a href="https://pan.baidu.com/s/1kXimQPL" target="_blank" rel="noopener">https://pan.baidu.com/s/1kXimQPL</a> </p><p>密码: y5fr</p><p>9.足球经理2017</p><p>链接: <a href="https://pan.baidu.com/s/1eTcHiRg" target="_blank" rel="noopener">https://pan.baidu.com/s/1eTcHiRg</a> </p><p>密码: k82b</p><p>10.三国志13威力加强</p><p>链接: <a href="https://pan.baidu.com/s/1nwfQG8x" target="_blank" rel="noopener">https://pan.baidu.com/s/1nwfQG8x</a> </p><p>密码: 4kda</p><p>11.生或死5</p><p>链接: <a href="https://pan.baidu.com/s/1c323E72" target="_blank" rel="noopener">https://pan.baidu.com/s/1c323E72</a> </p><p>密码: bveb</p><p>12.杀手6</p><p>链接: <a href="https://pan.baidu.com/s/1raunVnI" target="_blank" rel="noopener">https://pan.baidu.com/s/1raunVnI</a> </p><p>密码: 5jhi</p><p>13.子弹风暴</p><p>链接: <a href="https://pan.baidu.com/s/1gfU7BuN" target="_blank" rel="noopener">https://pan.baidu.com/s/1gfU7BuN</a> </p><p>密码: d9a6</p><p>14.光环战争终极版</p><p>链接: <a href="https://pan.baidu.com/s/1bq7pzCb" target="_blank" rel="noopener">https://pan.baidu.com/s/1bq7pzCb</a> </p><p>密码: eqns</p><p>15.战锤40K战争黎明3</p><p>链接: <a href="https://pan.baidu.com/s/1oAgeRCu" target="_blank" rel="noopener">https://pan.baidu.com/s/1oAgeRCu</a> </p><p>密码: 7dfj</p><p>16.小小噩梦</p><p>链接: <a href="https://pan.baidu.com/s/1c3oW42O" target="_blank" rel="noopener">https://pan.baidu.com/s/1c3oW42O</a> </p><p>密码: ae35</p><p>17.过山车之星</p><p>链接: <a href="https://pan.baidu.com/s/1eTBTb0Y" target="_blank" rel="noopener">https://pan.baidu.com/s/1eTBTb0Y</a> </p><p>密码: s21c</p><p>18.泰坦陨落2</p><p>链接: <a href="https://pan.baidu.com/s/1qZg05Bm" target="_blank" rel="noopener">https://pan.baidu.com/s/1qZg05Bm</a> </p><p>密码: s6dm</p><p>19.尘埃4</p><p>链接: <a href="https://pan.baidu.com/s/1o9psdTK" target="_blank" rel="noopener">https://pan.baidu.com/s/1o9psdTK</a> </p><p>密码: vkt3</p><p>20.迸发</p><p>链接: <a href="https://pan.baidu.com/s/1c3eNgwK" target="_blank" rel="noopener">https://pan.baidu.com/s/1c3eNgwK</a> </p><p>密码: 4msm</p><p>21.羞辱2</p><p>链接: <a href="https://pan.baidu.com/s/1oAj2FkI" target="_blank" rel="noopener">https://pan.baidu.com/s/1oAj2FkI</a> </p><p>密码: zzqg</p><p>22.银河历险记3</p><p>链接: <a href="https://pan.baidu.com/s/1cVxKGu" target="_blank" rel="noopener">https://pan.baidu.com/s/1cVxKGu</a> </p><p>密码: gemw</p><p>23.质量效益仙女座</p><p>链接: <a href="https://pan.baidu.com/s/1kVY3myb" target="_blank" rel="noopener">https://pan.baidu.com/s/1kVY3myb</a> </p><p>密码: ghym</p><p>24.魔法季节沉睡的大地 </p><p>链接: <a href="https://pan.baidu.com/s/1pMpVZbP" target="_blank" rel="noopener">https://pan.baidu.com/s/1pMpVZbP</a> </p><p>密码: 5mba</p><p>25.城市天际线</p><p>链接: <a href="https://pan.baidu.com/s/1ggqSpOJ" target="_blank" rel="noopener">https://pan.baidu.com/s/1ggqSpOJ</a> </p><p>密码: dyrt</p><p>26.恶灵附身</p><p>链接: <a href="https://pan.baidu.com/s/1qZi2zA8" target="_blank" rel="noopener">https://pan.baidu.com/s/1qZi2zA8</a> </p><p>密码: 76ay</p><p>27.911接线员</p><p>链接: <a href="https://pan.baidu.com/s/1mj17yVA" target="_blank" rel="noopener">https://pan.baidu.com/s/1mj17yVA</a> </p><p>密码: u8hq</p><p>28.银河历险记3</p><p>链接: <a href="https://pan.baidu.com/s/1gho0DpT" target="_blank" rel="noopener">https://pan.baidu.com/s/1gho0DpT</a> </p><p>密码: herc</p><p>29.NBA游乐场</p><p>链接: <a href="https://pan.baidu.com/s/1kXb1rBh" target="_blank" rel="noopener">https://pan.baidu.com/s/1kXb1rBh</a> </p><p>密码: 9mq8</p><p>30.尼尔机械纪元</p><p>链接: <a href="https://pan.baidu.com/s/1i6E4K1f" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6E4K1f</a> </p><p>密码: 9tau</p><p>31.方舟生存进化</p><p>链接: <a href="https://pan.baidu.com/s/1oAcHesE" target="_blank" rel="noopener">https://pan.baidu.com/s/1oAcHesE</a> </p><p>密码: y5xb</p><p>32.掠食2017 </p><p>链接: <a href="https://pan.baidu.com/s/1c2SBQdq" target="_blank" rel="noopener">https://pan.baidu.com/s/1c2SBQdq</a> </p><p>密码: ce8i</p><p>33.古墓丽影崛起</p><p>链接: <a href="https://pan.baidu.com/s/1dXFR0E" target="_blank" rel="noopener">https://pan.baidu.com/s/1dXFR0E</a> </p><p>密码: y8ha</p><p>34.热血无赖</p><p>链接: <a href="https://pan.baidu.com/s/1dHcZzxB" target="_blank" rel="noopener">https://pan.baidu.com/s/1dHcZzxB</a> </p><p>密码: ahr5</p><p>35.使命召唤1</p><p>链接: <a href="https://pan.baidu.com/s/1o9NNYtk" target="_blank" rel="noopener">https://pan.baidu.com/s/1o9NNYtk</a> </p><p>密码: i4ec</p><p>36.使命召唤2</p><p>链接: <a href="https://pan.baidu.com/s/1c3FuT3q" target="_blank" rel="noopener">https://pan.baidu.com/s/1c3FuT3q</a> </p><p>密码: gaxa</p><p>37.使命召唤3</p><p>链接: <a href="https://pan.baidu.com/s/1i5S1Ewl" target="_blank" rel="noopener">https://pan.baidu.com/s/1i5S1Ewl</a> </p><p>密码: yfxj</p><p>38.使命召唤4</p><p>链接: <a href="https://pan.baidu.com/s/1mjFeA0K" target="_blank" rel="noopener">https://pan.baidu.com/s/1mjFeA0K</a> </p><p>密码: mjap</p><p>39.使命召唤4 重置版</p><p>链接: <a href="https://pan.baidu.com/s/1c2PocN2" target="_blank" rel="noopener">https://pan.baidu.com/s/1c2PocN2</a> </p><p>密码: vjs6</p><p>40.使命召唤5</p><p>链接: <a href="https://pan.baidu.com/s/1snsPY4t" target="_blank" rel="noopener">https://pan.baidu.com/s/1snsPY4t</a> </p><p>密码: 9dqx</p><p>41.使命召唤6</p><p>链接: <a href="https://pan.baidu.com/s/1smXRqdJ" target="_blank" rel="noopener">https://pan.baidu.com/s/1smXRqdJ</a> </p><p>密码: ypi4</p><p>42.使命召唤7</p><p>链接: <a href="https://pan.baidu.com/s/1ggzFIc7" target="_blank" rel="noopener">https://pan.baidu.com/s/1ggzFIc7</a> </p><p>密码: j5ay</p><p>43.使命召唤8</p><p>链接: <a href="https://pan.baidu.com/s/1c35R2oC" target="_blank" rel="noopener">https://pan.baidu.com/s/1c35R2oC</a> </p><p>密码: bnik</p><p>44.使命召唤9</p><p>链接: <a href="https://pan.baidu.com/s/1dKiFG6" target="_blank" rel="noopener">https://pan.baidu.com/s/1dKiFG6</a> </p><p>密码: u3ph</p><p>45.使命召唤10</p><p>链接: <a href="https://pan.baidu.com/s/1bqy1X99" target="_blank" rel="noopener">https://pan.baidu.com/s/1bqy1X99</a> </p><p>密码: 7nk5</p><p>46.使命召唤11</p><p>链接: <a href="https://pan.baidu.com/s/1i6fYP97" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6fYP97</a> </p><p>密码: nvr6</p><p>47.使命召唤12</p><p>链接: <a href="https://pan.baidu.com/s/1i6QFZQP" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6QFZQP</a> </p><p>密码: y8t7</p><p>48.使命召唤13</p><p>链接: <a href="https://pan.baidu.com/s/1rake7F2" target="_blank" rel="noopener">https://pan.baidu.com/s/1rake7F2</a> </p><p>密码: pepr</p><p>49.战地系列</p><p>链接: <a href="https://pan.baidu.com/s/1pMjkyOb" target="_blank" rel="noopener">https://pan.baidu.com/s/1pMjkyOb</a> </p><p>密码: n8i7</p><p>50.英雄无敌系列</p><p>链接: <a href="https://pan.baidu.com/s/1dcjuYa" target="_blank" rel="noopener">https://pan.baidu.com/s/1dcjuYa</a> </p><p>密码: aag9</p><p>51.刺客信条系列</p><p>链接: <a href="https://pan.baidu.com/s/1htRxZfQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1htRxZfQ</a> </p><p>密码: 3p59</p><p>52.合金装备系列</p><p>链接: <a href="https://pan.baidu.com/s/1d3TFwM" target="_blank" rel="noopener">https://pan.baidu.com/s/1d3TFwM</a> </p><p>密码: cwzf</p><p>53.孤岛惊魂系列</p><p>链接: <a href="https://pan.baidu.com/s/1kW3Bu4J" target="_blank" rel="noopener">https://pan.baidu.com/s/1kW3Bu4J</a> </p><p>密码: k7cd</p><p>54.其他热门游戏</p><p>链接: <a href="https://pan.baidu.com/s/1nxcdjol" target="_blank" rel="noopener">https://pan.baidu.com/s/1nxcdjol</a> </p><p>密码: m96c</p><p>55.虐杀原形系列【WIN7才能玩】</p><p>链接: <a href="https://pan.baidu.com/s/1bqBtkGv" target="_blank" rel="noopener">https://pan.baidu.com/s/1bqBtkGv</a> </p><p>密码: zx3g</p><p>56.质量效益系列</p><p>链接: <a href="https://pan.baidu.com/s/1eTxFSsE" target="_blank" rel="noopener">https://pan.baidu.com/s/1eTxFSsE</a> </p><p>密码: ggx6</p><p>57.孤岛危机系列</p><p>链接: <a href="https://pan.baidu.com/s/1gg83lp5" target="_blank" rel="noopener">https://pan.baidu.com/s/1gg83lp5</a> </p><p>密码: wsu4</p><p>58.鬼泣系列</p><p>链接: <a href="https://pan.baidu.com/s/1dGmS9mp" target="_blank" rel="noopener">https://pan.baidu.com/s/1dGmS9mp</a> </p><p>密码: k78b</p><p>59.龙珠系列</p><p>链接: <a href="https://pan.baidu.com/s/1cXzCjc" target="_blank" rel="noopener">https://pan.baidu.com/s/1cXzCjc</a> </p><p>密码: 5k1u</p><p>60.波斯王子系列</p><p>链接: <a href="https://pan.baidu.com/s/1c3tGmcg" target="_blank" rel="noopener">https://pan.baidu.com/s/1c3tGmcg</a> </p><p>密码: mk7w</p><p>61.实况足球系列</p><p>链接: <a href="https://pan.baidu.com/s/1ggFoLDD" target="_blank" rel="noopener">https://pan.baidu.com/s/1ggFoLDD</a> </p><p>密码: 86it</p><p>62.最终幻想系列</p><p>链接: <a href="https://pan.baidu.com/s/1jJv5PCM" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJv5PCM</a> </p><p>密码: j8sh</p><p>63.仙剑系列</p><p>链接: <a href="https://pan.baidu.com/s/1dGyxRR7" target="_blank" rel="noopener">https://pan.baidu.com/s/1dGyxRR7</a> </p><p>密码: n2j8</p><p>64.轩辕剑系列</p><p>链接: <a href="https://pan.baidu.com/s/1jJfWNtk" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJfWNtk</a> </p><p>密码: arqi</p><p>65.真三国系列</p><p>链接: <a href="https://pan.baidu.com/s/1mjQ9SQc" target="_blank" rel="noopener">https://pan.baidu.com/s/1mjQ9SQc</a> </p><p>密码: x6sc</p><p>66.蜘蛛侠系列</p><p>链接: <a href="https://pan.baidu.com/s/1dAFpCy" target="_blank" rel="noopener">https://pan.baidu.com/s/1dAFpCy</a> </p><p>密码: 19sm</p><p>67.NBA2K13 2K14 2K15 2K16 2K17 2K18合集</p><p>链接: <a href="https://pan.baidu.com/s/1qYYYYMo" target="_blank" rel="noopener">https://pan.baidu.com/s/1qYYYYMo</a> </p><p>密码: 9qqu</p><p>68.恶灵附身2 </p><p>链接: <a href="https://pan.baidu.com/s/1nxkkFRb" target="_blank" rel="noopener">https://pan.baidu.com/s/1nxkkFRb</a> </p><p>密码: xsqq</p><p>69.茶杯头简体中文版</p><p>链接: <a href="https://pan.baidu.com/s/1i5ThCjz" target="_blank" rel="noopener">https://pan.baidu.com/s/1i5ThCjz</a> </p><p>密码: yvek</p><p>70.塞尔达传说荒野之息 </p><p>链接: <a href="https://pan.baidu.com/s/1jJ3Dwsm" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJ3Dwsm</a> </p><p>密码: u4j1</p><p>71.ELEX 完整中文版</p><p>链接: <a href="https://pan.baidu.com/s/1nwRnOal" target="_blank" rel="noopener">https://pan.baidu.com/s/1nwRnOal</a> </p><p>密码: s9g3</p><p>72.ELEX 赠品</p><p>链接: <a href="https://pan.baidu.com/s/1bqnCBqn" target="_blank" rel="noopener">https://pan.baidu.com/s/1bqnCBqn</a> </p><p>密码: nc8n</p><p>73.仁王 完整中文版</p><p>链接: <a href="https://pan.baidu.com/s/1nwFc8lj" target="_blank" rel="noopener">https://pan.baidu.com/s/1nwFc8lj</a> </p><p>密码: c3if</p><p>74.仁王 </p><p>链接: <a href="https://pan.baidu.com/s/1eTDoWkq" target="_blank" rel="noopener">https://pan.baidu.com/s/1eTDoWkq</a> </p><p>密码: m9ds</p><p>75.咒语力量3 豪华版</p><p>链接: <a href="https://pan.baidu.com/s/1jJyTED4" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJyTED4</a> </p><p>密码: 3rfj</p><p>游戏安装米玛：632587（重要！）</p><p>76.咒语力量3 </p><p>链接: <a href="https://pan.baidu.com/s/1gfVT6gj" target="_blank" rel="noopener">https://pan.baidu.com/s/1gfVT6gj</a> </p><p>密码: s388</p><p>77.伊苏8 中文版</p><p>链接: <a href="https://pan.baidu.com/s/1dGf1bEx" target="_blank" rel="noopener">https://pan.baidu.com/s/1dGf1bEx</a> </p><p>密码: qc1r</p><p>78.伊苏8 赠品</p><p>链接: <a href="https://pan.baidu.com/s/1qZi2zIc" target="_blank" rel="noopener">https://pan.baidu.com/s/1qZi2zIc</a> </p><p>密码: a8ia</p><p>79.黑镜完整中文版</p><p>链接: <a href="https://pan.baidu.com/s/1hual2Tm" target="_blank" rel="noopener">https://pan.baidu.com/s/1hual2Tm</a> </p><p>密码: runi</p><p>80.实况足球2018</p><p>链接: <a href="https://pan.baidu.com/s/1smLaQ8d" target="_blank" rel="noopener">https://pan.baidu.com/s/1smLaQ8d</a> </p><p>密码: f3jx</p><p>81.狙击精英4</p><p>链接: <a href="https://pan.baidu.com/s/1jJHRtOi" target="_blank" rel="noopener">https://pan.baidu.com/s/1jJHRtOi</a> </p><p>密码: 2tf8</p><p>82.幽灵行动3</p><p>链接: <a href="https://pan.baidu.com/s/1bq5UtS7" target="_blank" rel="noopener">https://pan.baidu.com/s/1bq5UtS7</a> </p><p>密码: wgrk</p><p>83.极品飞车18</p><p>链接: <a href="https://pan.baidu.com/s/1o9wK1qq" target="_blank" rel="noopener">https://pan.baidu.com/s/1o9wK1qq</a> </p><p>密码: k2m4</p><p>84.国土防线2 </p><p>链接: <a href="https://pan.baidu.com/s/1smY8kyx" target="_blank" rel="noopener">https://pan.baidu.com/s/1smY8kyx</a> </p><p>密码: us2j</p><p>85.黑手党3</p><p>链接: <a href="https://pan.baidu.com/s/1i6Yi5ff" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6Yi5ff</a> </p><p>密码: p9w2</p><p>86.彩虹6号围攻（55G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1gfTSAL9" target="_blank" rel="noopener">https://pan.baidu.com/s/1gfTSAL9</a> </p><p>密码: trju</p><p>87.量子破碎（65G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1htJr1fY" target="_blank" rel="noopener">https://pan.baidu.com/s/1htJr1fY</a> </p><p>密码: e5fz</p><p>88.漫画英雄VS卡普空（56G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1i5XSpfv" target="_blank" rel="noopener">https://pan.baidu.com/s/1i5XSpfv</a> </p><p>密码: 81uf</p><p>89.街头霸王5（25G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1mjbPUgo" target="_blank" rel="noopener">https://pan.baidu.com/s/1mjbPUgo</a> </p><p>密码: p5cj</p><p>90.NBA2K18（62G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1i6fZMBj" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6fZMBj</a> </p><p>密码: tmq8</p><p>91.欧卡2-1.26中国（10G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1snjx4z7" target="_blank" rel="noopener">https://pan.baidu.com/s/1snjx4z7</a> </p><p>密码: 4j7y</p><p>92.杀手6（42G大小）</p><p>链接: <a href="https://pan.baidu.com/s/1i6WMBMd" target="_blank" rel="noopener">https://pan.baidu.com/s/1i6WMBMd</a> </p><p>密码: 1xwv</p><p>本文归公众号 白的夜 所有，如有需要，可扫如下二维码：</p><p><img src="/123/640.webp" alt="1"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;热门游戏集合，各种3A大作都有&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="网络摘抄" scheme="http://yoursite.com/categories/%E7%BD%91%E7%BB%9C%E6%91%98%E6%8A%84/"/>
-    
-    
-      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
