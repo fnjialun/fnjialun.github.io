@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-28T05:51:28.245Z</updated>
+  <updated>2018-09-28T09:44:14.786Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高数知识点（一）</title>
+    <link href="http://yoursite.com/2018/09/28/%E9%AB%98%E6%95%B0/"/>
+    <id>http://yoursite.com/2018/09/28/高数/</id>
+    <published>2018-09-28T09:00:31.000Z</published>
+    <updated>2018-09-28T09:44:14.786Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="极限运算法则"><a href="#极限运算法则" class="headerlink" title="极限运算法则"></a>极限运算法则</h1><p>有限个无穷小的和也是无穷小<br>有界函数与无穷小的乘积是无穷小<br>有限个无穷小的乘积也是无穷小<br>单调有界必有极限</p><h1 id="无穷小的比较"><a href="#无穷小的比较" class="headerlink" title="无穷小的比较"></a>无穷小的比较</h1><p>lim b/a = 0 ,则b是a的高阶无穷小，记作b=o(a)<br>lim b/a = 无穷 ,则b是a的低阶无穷小，<br>lim b/a = c ,c为不为0的常数，则b是a的同阶无穷小，<br>lim b/a^k = c ,c为不为0的常数，k&gt;0,则b是a的k阶无穷小，<br>lim b/a = 1 ,b是a的等价无穷小。</p><h1 id="间断点类型"><a href="#间断点类型" class="headerlink" title="间断点类型"></a>间断点类型</h1><p>第一类<br>可去间断点<br>跳跃间断点</p><p>第二类<br>无穷间断点<br>震荡间断点</p><h1 id="渐近线方程"><a href="#渐近线方程" class="headerlink" title="渐近线方程"></a>渐近线方程</h1><p>k=lim f(x)/x</p><p>b=lim f(x)-kx</p><h1 id="可导性与连续性"><a href="#可导性与连续性" class="headerlink" title="可导性与连续性"></a>可导性与连续性</h1><p>可导必连续，连续不一定可导</p><h1 id="莱布尼茨公式"><a href="#莱布尼茨公式" class="headerlink" title="莱布尼茨公式"></a>莱布尼茨公式</h1><p>(uv)(n)=ΣC(k,n)u(n-k)v(k)</p><h1 id="函数近似公式"><a href="#函数近似公式" class="headerlink" title="函数近似公式"></a>函数近似公式</h1><p>f(x)=f(x0)+f’(x0)(x-x0)</p><h1 id="微分中值定理"><a href="#微分中值定理" class="headerlink" title="微分中值定理"></a>微分中值定理</h1><h2 id="费马引理"><a href="#费马引理" class="headerlink" title="费马引理"></a>费马引理</h2><p>函数f(x)在点x0的某邻域内有定义，并且在x0处可导，如果对邻域内任意的x，有f(x)《(》) f(x0)，那么f’(x0)=0</p><h2 id="罗尔定理"><a href="#罗尔定理" class="headerlink" title="罗尔定理"></a>罗尔定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且f(a)=f(b)，那么在(a,b)内至少有一点c，使得f’(c)=0</p><h2 id="拉格朗日中值定理"><a href="#拉格朗日中值定理" class="headerlink" title="拉格朗日中值定理"></a>拉格朗日中值定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，那么在(a,b)内至少有一点c，使得f’(c)(b-a)=f(b)-f(a)</p><h2 id="柯西定理"><a href="#柯西定理" class="headerlink" title="柯西定理"></a>柯西定理</h2><p>f(x)，F(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且F(x)不等于0，那么在(a,b)内至少有一点c，使得f’(c)/F’(c)=f(b)-f(a)/F(b)-F(a)</p><h1 id="待续"><a href="#待续" class="headerlink" title="待续"></a>待续</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;极限运算法则&quot;&gt;&lt;a href=&quot;#极限运算法则&quot; class=&quot;headerlink&quot; title=&quot;极限运算法则&quot;&gt;&lt;/a&gt;极限运算法则&lt;/h1&gt;&lt;p&gt;有限个无穷小的和也是无穷小&lt;br&gt;有界函数与无穷小的乘积是无穷小&lt;br&gt;有限个无穷小的乘积也是无穷小&lt;br&gt;
+      
+    
+    </summary>
+    
+      <category term="考研" scheme="http://yoursite.com/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+      <category term="高数" scheme="http://yoursite.com/tags/%E9%AB%98%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>寻一方净土</title>
@@ -424,28 +449,6 @@
     <summary type="html">
     
       &lt;p&gt;开学第二天，也是5节课，不过还算可以，（上课很舒服，啊哈哈哈哈哈哈哈哈）&lt;br&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开学了~~~</title>
-    <link href="http://yoursite.com/2018/09/03/%E5%BC%80%E5%AD%A6%E4%BA%86/"/>
-    <id>http://yoursite.com/2018/09/03/开学了/</id>
-    <published>2018-09-03T12:57:56.000Z</published>
-    <updated>2018-09-07T05:07:39.364Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是开学的第一天，上了五节课，刚下课就迫不及待地回宿舍想写两句。</p><a id="more"></a><p>哎，怎么说呢，突然燃起来了学习的激情，我准备从今天开始每天把学的东西大概总结一遍，一是为了加深印象，二是为了以后可以照着复习！！！</p><p>先来一张小鞠婧祎的图过过瘾，嘿嘿</p><p><img src="/123/FB_IMG_1535563696725.jpg" alt="1"></p><p>好了正式开始     总结 9.3</p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><h2 id="总论"><a href="#总论" class="headerlink" title="总论"></a>总论</h2><p>概念：道路是供各种车辆和行人等通行的工程设施。道路工程则是以道路为对象而进行的规划、设计、施工、养护与管理工作的全过程及其工程实体的总称。<br>道路的基本属性：公益性、商品性、超前性、储备性<br>道路的经济特征：道路产品是固定在广阔地域上的线性建筑物，不能移动、道路生产周期和使用周期长、具有特殊的消费过程和消费方式、作为一个完整的系统发挥作用。<br>道路运输：覆盖范围是一个面、门对门的直达运输、与其他运输方式相配合<br>特点：适应性强、机动性好、速度快捷、投资较少、运输费用较高</p><p>公路是线形结构物，包括线形和结构两个组成部分<br>公路线形指公路的几何形状和尺寸，公路结构包括路基，路面等</p><p>控制点：分为三类，交通线上、自然条件下形成、人为设施附近</p><h2 id="道路平面设计"><a href="#道路平面设计" class="headerlink" title="道路平面设计"></a>道路平面设计</h2><p>道路平面线形要素<br>路线平面上的形状及特征称为道路的平面线形，分为三类：直线、圆曲线、缓和曲线。</p><h1 id="运输组织学"><a href="#运输组织学" class="headerlink" title="运输组织学"></a>运输组织学</h1><p>没书，郁闷+1<br><img src="/123/DADKKWPOGJKA.png" alt="2"></p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><p>没书，郁闷+2<br><img src="/123/123.png" alt="3"></p><h1 id="运输企业经营管理"><a href="#运输企业经营管理" class="headerlink" title="运输企业经营管理"></a>运输企业经营管理</h1><p>没书，郁闷+3<br>而且讲了什么没记住，只记得！@#￥%……&amp;*之类。。。。。。</p><h1 id="交通工程"><a href="#交通工程" class="headerlink" title="交通工程"></a>交通工程</h1><h2 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h2><p>交通：交通体在交通管理空间上有通达目的的移动（包含三个条件，你懂的）<br>交通侧重于人和物移动的本质，如交通量的大小、速度快慢、道路畅通情况，单位是车/小时或人/小时；运输侧重于移动的本身，如运输量的大小、运距长短、运价高低等，单位是人·公里或吨·公里<br>交通是运输的载体，运输是交通的目的</p><h2 id="重要概念"><a href="#重要概念" class="headerlink" title="重要概念"></a>重要概念</h2><p>交通工程学：研究交通规律及其应用的一门技术科学<br>学科性质：兼有自然学科与社会学科双重属性的综合性学科<br>学科特点：系统性、综合性、交叉性或复合性、社会性、前瞻性、动态性</p><p><img src="/123/456.png" alt="4"></p><p>好，今日总结完毕！！</p><h1 id="最后结语"><a href="#最后结语" class="headerlink" title="最后结语"></a>最后结语</h1><p>在最后的最后，附上我们老师送的图！！</p><p><img src="/123/IMG_20180903_195608.jpg" alt="5"></p><p>溜了溜了~~~~</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天是开学的第一天，上了五节课，刚下课就迫不及待地回宿舍想写两句。&lt;/p&gt;
     
     </summary>
     
