@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-28T10:01:39.812Z</updated>
+  <updated>2018-09-30T07:59:39.136Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>9.29-30日总结</title>
+    <link href="http://yoursite.com/2018/09/30/9-29-30%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/09/30/9-29-30日总结/</id>
+    <published>2018-09-30T06:33:20.000Z</published>
+    <updated>2018-09-30T07:59:39.136Z</updated>
+    
+    <content type="html"><![CDATA[<p>明天就是国庆节假期了，今天晚上就坐上火车溜喽！！！</p><a id="more"></a><p>进入正题吧</p><h1 id="运输规划"><a href="#运输规划" class="headerlink" title="运输规划"></a>运输规划</h1><h2 id="经济预测"><a href="#经济预测" class="headerlink" title="经济预测"></a>经济预测</h2><h3 id="灰色系统预测法"><a href="#灰色系统预测法" class="headerlink" title="灰色系统预测法"></a>灰色系统预测法</h3><p>GM(1,1)模型，见书P81-82页</p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><h2 id="动态经济效果评价"><a href="#动态经济效果评价" class="headerlink" title="动态经济效果评价"></a>动态经济效果评价</h2><p> 净现值率（NPVR）</p><p> 净年值（NAV）</p><p> 费用现值（PC）</p><p> 费用年值（AC）</p><p> 内部收益率（IRR）</p><p>详见课本书P45-51页</p><h1 id="公路运输枢纽规划与设计"><a href="#公路运输枢纽规划与设计" class="headerlink" title="公路运输枢纽规划与设计"></a>公路运输枢纽规划与设计</h1><h2 id="汽车客运站设计"><a href="#汽车客运站设计" class="headerlink" title="汽车客运站设计"></a>汽车客运站设计</h2><p>见书P159-160页</p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><h2 id="路基边坡稳定性设计"><a href="#路基边坡稳定性设计" class="headerlink" title="路基边坡稳定性设计"></a>路基边坡稳定性设计</h2><p>详情见书P134-144页</p><h2 id="挡土墙设计"><a href="#挡土墙设计" class="headerlink" title="挡土墙设计"></a>挡土墙设计</h2><p>见书P144-149页</p><h1 id="交通运输调查与分析"><a href="#交通运输调查与分析" class="headerlink" title="交通运输调查与分析"></a>交通运输调查与分析</h1><h2 id="城市居民出行调查"><a href="#城市居民出行调查" class="headerlink" title="城市居民出行调查"></a>城市居民出行调查</h2><h3 id="调查分类"><a href="#调查分类" class="headerlink" title="调查分类"></a>调查分类</h3><p>调查目的<br>调查区域<br>调查过程<br>调查对象<br>调查日期</p><h2 id="Python-应用"><a href="#Python-应用" class="headerlink" title="Python 应用"></a>Python 应用</h2><p>print(‘XXX’)  打印XXX</p><p>import XXX as XXX  引入package</p><p>其他详见anaconda</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>越来越觉得专业课太难学了，神啊，谁来救救我！！！</p><p>今日份！！！<br><img src="/123/null-7ef851529a4021bd.jpg" alt="1"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;明天就是国庆节假期了，今天晚上就坐上火车溜喽！！！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
+    
+    
+      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高数知识点(二)</title>
+    <link href="http://yoursite.com/2018/09/29/%E9%AB%98%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%BA%8C/"/>
+    <id>http://yoursite.com/2018/09/29/高数知识点-二/</id>
+    <published>2018-09-29T11:00:30.000Z</published>
+    <updated>2018-09-30T07:30:11.656Z</updated>
+    
+    <content type="html"><![CDATA[<p>总结个别定理及概念</p><a id="more"></a><h1 id="洛必达法则"><a href="#洛必达法则" class="headerlink" title="洛必达法则"></a>洛必达法则</h1><p>0/0 型或无穷/无穷型未定式</p><h1 id="泰勒公式"><a href="#泰勒公式" class="headerlink" title="泰勒公式"></a>泰勒公式</h1><p>f(x)=f(x0)+f’(x0)(x-x0)+f’’(x0)/2!(x-x0)^2+……+f(n)(x0)/n!(x-x0)^n+R(x)</p><p>其中R(x)=f(n+1)(mx)/(n+1)!(x-x0)^(n+1)，0&lt;m&lt;1</p><h1 id="弧微分"><a href="#弧微分" class="headerlink" title="弧微分"></a>弧微分</h1><h2 id="计算式"><a href="#计算式" class="headerlink" title="计算式"></a>计算式</h2><p>ds=根号下（1+y’^2）dx</p><h2 id="曲率公式"><a href="#曲率公式" class="headerlink" title="曲率公式"></a>曲率公式</h2><p>K=绝对值 y’’/(1+y’^2)^(3/2)</p><p>r=1/k</p><h1 id="求导与积分相关知识"><a href="#求导与积分相关知识" class="headerlink" title="求导与积分相关知识"></a>求导与积分相关知识</h1><h1 id="定积分在几何学上的应用"><a href="#定积分在几何学上的应用" class="headerlink" title="定积分在几何学上的应用"></a>定积分在几何学上的应用</h1><p>直角坐标面积元素：dA=f(x)dx<br>极坐标面积元素：dA=1/2(r(x))^2dx<br>旋转体体积：dV=Π（f(x)）^2dx<br>平行截面面积为已知的立体的体积：dV=A(x)dx</p><p>弧长元素：ds=根号下(1+y’^2)dx或ds=根号下(a’(t)^2+b’(t)^2)dt或ds=根号下(r(a)^2+r’(a)^2)da</p><h1 id="微分方程"><a href="#微分方程" class="headerlink" title="微分方程"></a>微分方程</h1><h2 id="可分离变量"><a href="#可分离变量" class="headerlink" title="可分离变量"></a>可分离变量</h2><p>dy/dx=f(x,y)</p><h2 id="齐次方程"><a href="#齐次方程" class="headerlink" title="齐次方程"></a>齐次方程</h2><p>dy/dx=f(y/x)</p><h2 id="可化为齐次"><a href="#可化为齐次" class="headerlink" title="可化为齐次"></a>可化为齐次</h2><p>dy/dx=ax+by+c/dx+ey+f ,可令x=X+h,y+Y+k，代入化为齐次</p><h2 id="一阶线性微分方程"><a href="#一阶线性微分方程" class="headerlink" title="一阶线性微分方程"></a>一阶线性微分方程</h2><h3 id="线性方程"><a href="#线性方程" class="headerlink" title="线性方程"></a>线性方程</h3><p>dy/dx+P(x)y=Q(x) 可利用万能公式（常数变易法）求出</p><h3 id="伯努利方程"><a href="#伯努利方程" class="headerlink" title="伯努利方程"></a>伯努利方程</h3><p>dy/dx+P(x)y=Q(x)y^n  </p><p>令z=y^(1-n),则上式可化为dz/dx+(1-n)P(x)z=(1-n)Q(x),利用万能公式求得</p><h2 id="可降阶的高阶微分方程"><a href="#可降阶的高阶微分方程" class="headerlink" title="可降阶的高阶微分方程"></a>可降阶的高阶微分方程</h2><h3 id="y-n-x-f-x-型"><a href="#y-n-x-f-x-型" class="headerlink" title="y(n)(x)=f(x)型"></a>y(n)(x)=f(x)型</h3><p>连续积分n次</p><h3 id="y’’-f-x-y’-型"><a href="#y’’-f-x-y’-型" class="headerlink" title="y’’=f(x,y’)型"></a>y’’=f(x,y’)型</h3><p>设y’=p,可求得</p><h3 id="y’’-f-y-y’-型"><a href="#y’’-f-y-y’-型" class="headerlink" title="y’’=f(y,y’)型"></a>y’’=f(y,y’)型</h3><p>设y’=p,并转化为对y的方程,可求得</p><h2 id="常系数线性微分方程"><a href="#常系数线性微分方程" class="headerlink" title="常系数线性微分方程"></a>常系数线性微分方程</h2><h3 id="齐次"><a href="#齐次" class="headerlink" title="齐次"></a>齐次</h3><p>写出特征方程，根据根的实虚和重数判断<br>单实根r 给出Ce^rx<br>一对单复根a+bi,a-bi 给出两项e^ax(C1cos(bx)+C2sin(bx))<br>k重实根r 给出k项 e^rx(C1+C2x+……+Ckx^(k-1))<br> 一对k重复根a+bi,a-bi 给出2k项e^ax((C1+C2x+……+Ckx^(k-1))cos(bx)+(D1+D2x+……+Dkx^(k-1))sin(bx))</p><h3 id="非齐次"><a href="#非齐次" class="headerlink" title="非齐次"></a>非齐次</h3><h4 id="f-x-e-ax-P-x-型"><a href="#f-x-e-ax-P-x-型" class="headerlink" title="f(x)=e^(ax)P(x)型"></a>f(x)=e^(ax)P(x)型</h4><p>求出对应齐次方程的通解<br>特解形式为y=x^kQ(x)e^(ax),其中Q(x)为P(x)同次的多项式，k按a是否为特征方程的根取值，不是取0，s重取s</p><h4 id="f-x-e-ax-P-x-cos-bx-Q-x-sin-bx-型"><a href="#f-x-e-ax-P-x-cos-bx-Q-x-sin-bx-型" class="headerlink" title="f(x)=e^(ax)[P(x)cos(bx)+Q(x)sin(bx)]型"></a>f(x)=e^(ax)[P(x)cos(bx)+Q(x)sin(bx)]型</h4><p>求出对应齐次方程的通解<br>特解形式为y=x^ke^(ax)[R1(x)cos(bx)+R2(x)sin(bx)],其中R(x)次数与P(x),Q(x)中的高次相同,k按a+bi(或a-bi)是否为特征方程的根取值，不是取0，s重取s</p><h1 id="待续"><a href="#待续" class="headerlink" title="待续"></a>待续</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;总结个别定理及概念&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="考研" scheme="http://yoursite.com/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+      <category term="高数" scheme="http://yoursite.com/tags/%E9%AB%98%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高数知识点（一）</title>
     <link href="http://yoursite.com/2018/09/28/%E9%AB%98%E6%95%B0/"/>
     <id>http://yoursite.com/2018/09/28/高数/</id>
     <published>2018-09-28T09:00:31.000Z</published>
-    <updated>2018-09-28T10:01:39.812Z</updated>
+    <updated>2018-09-30T06:35:11.316Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h1 id="极限运算法则"><a href="#极限运算法则" class="headerlink" title="极限运算法则"></a>极限运算法则</h1><p>有限个无穷小的和也是无穷小<br>有界函数与无穷小的乘积是无穷小<br>有限个无穷小的乘积也是无穷小<br>单调有界必有极限</p><h1 id="无穷小的比较"><a href="#无穷小的比较" class="headerlink" title="无穷小的比较"></a>无穷小的比较</h1><p>lim b/a = 0 ,则b是a的高阶无穷小，记作b=o(a)<br>lim b/a = 无穷 ,则b是a的低阶无穷小，<br>lim b/a = c ,c为不为0的常数，则b是a的同阶无穷小，<br>lim b/a^k = c ,c为不为0的常数，k&gt;0,则b是a的k阶无穷小，<br>lim b/a = 1 ,b是a的等价无穷小。</p><h1 id="间断点类型"><a href="#间断点类型" class="headerlink" title="间断点类型"></a>间断点类型</h1><p>第一类<br>可去间断点<br>跳跃间断点</p><p>第二类<br>无穷间断点<br>震荡间断点</p><h1 id="渐近线方程"><a href="#渐近线方程" class="headerlink" title="渐近线方程"></a>渐近线方程</h1><p>k=lim f(x)/x</p><p>b=lim f(x)-kx</p><h1 id="可导性与连续性"><a href="#可导性与连续性" class="headerlink" title="可导性与连续性"></a>可导性与连续性</h1><p>可导必连续，连续不一定可导</p><h1 id="莱布尼茨公式"><a href="#莱布尼茨公式" class="headerlink" title="莱布尼茨公式"></a>莱布尼茨公式</h1><p>(uv)(n)=ΣC(k,n)u(n-k)v(k)</p><h1 id="函数近似公式"><a href="#函数近似公式" class="headerlink" title="函数近似公式"></a>函数近似公式</h1><p>f(x)=f(x0)+f’(x0)(x-x0)</p><h1 id="微分中值定理"><a href="#微分中值定理" class="headerlink" title="微分中值定理"></a>微分中值定理</h1><h2 id="费马引理"><a href="#费马引理" class="headerlink" title="费马引理"></a>费马引理</h2><p>函数f(x)在点x0的某邻域内有定义，并且在x0处可导，如果对邻域内任意的x，有f(x)《(》) f(x0)，那么f’(x0)=0</p><h2 id="罗尔定理"><a href="#罗尔定理" class="headerlink" title="罗尔定理"></a>罗尔定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且f(a)=f(b)，那么在(a,b)内至少有一点c，使得f’(c)=0</p><h2 id="拉格朗日中值定理"><a href="#拉格朗日中值定理" class="headerlink" title="拉格朗日中值定理"></a>拉格朗日中值定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，那么在(a,b)内至少有一点c，使得f’(c)(b-a)=f(b)-f(a)</p><h2 id="柯西定理"><a href="#柯西定理" class="headerlink" title="柯西定理"></a>柯西定理</h2><p>f(x)，F(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且F(x)不等于0，那么在(a,b)内至少有一点c，使得f’(c)/F’(c)=f(b)-f(a)/F(b)-F(a)</p><h1 id="待续"><a href="#待续" class="headerlink" title="待续"></a>待续</h1>]]></content>
+    <content type="html"><![CDATA[<p>总结个别定理及概念</p><a id="more"></a><h1 id="极限运算法则"><a href="#极限运算法则" class="headerlink" title="极限运算法则"></a>极限运算法则</h1><p>有限个无穷小的和也是无穷小<br>有界函数与无穷小的乘积是无穷小<br>有限个无穷小的乘积也是无穷小<br>单调有界必有极限</p><h1 id="无穷小的比较"><a href="#无穷小的比较" class="headerlink" title="无穷小的比较"></a>无穷小的比较</h1><p>lim b/a = 0 ,则b是a的高阶无穷小，记作b=o(a)<br>lim b/a = 无穷 ,则b是a的低阶无穷小，<br>lim b/a = c ,c为不为0的常数，则b是a的同阶无穷小，<br>lim b/a^k = c ,c为不为0的常数，k&gt;0,则b是a的k阶无穷小，<br>lim b/a = 1 ,b是a的等价无穷小。</p><h1 id="间断点类型"><a href="#间断点类型" class="headerlink" title="间断点类型"></a>间断点类型</h1><p>第一类<br>可去间断点<br>跳跃间断点</p><p>第二类<br>无穷间断点<br>震荡间断点</p><h1 id="渐近线方程"><a href="#渐近线方程" class="headerlink" title="渐近线方程"></a>渐近线方程</h1><p>k=lim f(x)/x</p><p>b=lim f(x)-kx</p><h1 id="可导性与连续性"><a href="#可导性与连续性" class="headerlink" title="可导性与连续性"></a>可导性与连续性</h1><p>可导必连续，连续不一定可导</p><h1 id="莱布尼茨公式"><a href="#莱布尼茨公式" class="headerlink" title="莱布尼茨公式"></a>莱布尼茨公式</h1><p>(uv)(n)=ΣC(k,n)u(n-k)v(k)</p><h1 id="函数近似公式"><a href="#函数近似公式" class="headerlink" title="函数近似公式"></a>函数近似公式</h1><p>f(x)=f(x0)+f’(x0)(x-x0)</p><h1 id="微分中值定理"><a href="#微分中值定理" class="headerlink" title="微分中值定理"></a>微分中值定理</h1><h2 id="费马引理"><a href="#费马引理" class="headerlink" title="费马引理"></a>费马引理</h2><p>函数f(x)在点x0的某邻域内有定义，并且在x0处可导，如果对邻域内任意的x，有f(x)《(》) f(x0)，那么f’(x0)=0</p><h2 id="罗尔定理"><a href="#罗尔定理" class="headerlink" title="罗尔定理"></a>罗尔定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且f(a)=f(b)，那么在(a,b)内至少有一点c，使得f’(c)=0</p><h2 id="拉格朗日中值定理"><a href="#拉格朗日中值定理" class="headerlink" title="拉格朗日中值定理"></a>拉格朗日中值定理</h2><p>f(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，那么在(a,b)内至少有一点c，使得f’(c)(b-a)=f(b)-f(a)</p><h2 id="柯西定理"><a href="#柯西定理" class="headerlink" title="柯西定理"></a>柯西定理</h2><p>f(x)，F(x)满足在闭区间[a,b]上连续，开区间(a,b)内可导，且F(x)不等于0，那么在(a,b)内至少有一点c，使得f’(c)/F’(c)=f(b)-f(a)/F(b)-F(a)</p><h1 id="待续"><a href="#待续" class="headerlink" title="待续"></a>待续</h1>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;极限运算法则&quot;&gt;&lt;a href=&quot;#极限运算法则&quot; class=&quot;headerlink&quot; title=&quot;极限运算法则&quot;&gt;&lt;/a&gt;极限运算法则&lt;/h1&gt;&lt;p&gt;有限个无穷小的和也是无穷小&lt;br&gt;有界函数与无穷小的乘积是无穷小&lt;br&gt;
-      
+      &lt;p&gt;总结个别定理及概念&lt;/p&gt;
     
     </summary>
     
@@ -406,50 +446,6 @@
     <summary type="html">
     
       &lt;p&gt;开学第四天了，逐渐步入正轨了，&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9.5就一节课啦啦啦！(考研简介)</title>
-    <link href="http://yoursite.com/2018/09/05/9-5%E5%B0%B1%E4%B8%80%E8%8A%82%E8%AF%BE%E5%95%A6%E5%95%A6%E5%95%A6/"/>
-    <id>http://yoursite.com/2018/09/05/9-5就一节课啦啦啦/</id>
-    <published>2018-09-05T04:57:05.000Z</published>
-    <updated>2018-09-07T05:04:55.120Z</updated>
-    
-    <content type="html"><![CDATA[<p>发现一旦开始做一些类似的工作，就总是会有那种感觉，比如今天做了这个总结，明天也做了总结，但是时间一长就觉得没有之前那么仔细了，好像应付一般</p><a id="more"></a><p>但是还是要坚持做下去</p><h1 id="运输组织学"><a href="#运输组织学" class="headerlink" title="运输组织学"></a>运输组织学</h1><p><img src="/123/369852.png" alt="1"></p><h1 id="考研基本知识"><a href="#考研基本知识" class="headerlink" title="考研基本知识"></a>考研基本知识</h1><p>因为只有这一节课，所以也就这么多内容。趁着半天的闲暇时间，是时候为了未来做一些准备了，先查一些考研方面的资料吧</p><p>考研网上报名时间为10月10日至10月31日，预报名时间为9月24日至9月27日，每天9:00-22:00，初试时间为2018年12月22日至12月23日，超过3小时的考试科目安排在12月24日进行。</p><p>硕士研究生招生考试报名包括网上报名和现场确认两个阶段。所有参加硕士研究生招生考试的考生均须进行网上报名，并到报考点现场确认网报信息、采集本人图像等相关电子信息，同时按规定缴纳报考费。考生应在规定时间内登录“中国研究生招生信息网”(研招网)进行报名。报名期间，考生可自行修改网上报名信息或重新填报报名信息。为避免多占考位，影响其他考生报考，一名考生只能保留一条有效报名信息。所有考生(不含推免生)均应当在规定时间内到报考点指定地点现场核对并确认其网上报名信息，逾期不再补办。</p><p>初试时间为2018年12月22日至12月23日(每天上午8:30-11:30，下午14:00-17:00)。超过3小时的考试科目在12月24日进行。在12月14日至12月24日期间，凭网报用户名和密码登录“研招网”自行下载打印《准考证》。</p><h2 id="同济大学2019年-交通运输工程简章"><a href="#同济大学2019年-交通运输工程简章" class="headerlink" title="同济大学2019年 交通运输工程简章"></a>同济大学2019年 交通运输工程简章</h2><p><img src="/123/753543438.png" alt="2"></p><p>考试科目 统考 思想政治理论、数学一、英语一，专业课见上表</p><p>其他具体细节待继续查阅相关资料</p><h1 id="最后，结尾"><a href="#最后，结尾" class="headerlink" title="最后，结尾"></a>最后，结尾</h1><p><img src="/123/qq_pic_merged_1536131411646.jpg" alt="3"></p><p>明天我们再见！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;发现一旦开始做一些类似的工作，就总是会有那种感觉，比如今天做了这个总结，明天也做了总结，但是时间一长就觉得没有之前那么仔细了，好像应付一般&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9.4日总结</title>
-    <link href="http://yoursite.com/2018/09/04/9-4%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2018/09/04/9-4日总结/</id>
-    <published>2018-09-04T13:07:10.000Z</published>
-    <updated>2018-09-07T05:06:00.421Z</updated>
-    
-    <content type="html"><![CDATA[<p>开学第二天，也是5节课，不过还算可以，（上课很舒服，啊哈哈哈哈哈哈哈哈）<br><a id="more"></a><br>感觉最近这两天学的东西专业化程度较高，是我比较爱学习的那种，但是可能需要记忆的比较多，因此这更加坚定了我每日总结的决心。</p><p>好，现在就让我们开始吧！！！</p><p>emmm，按照惯例，你懂的！</p><p><img src="/123/IMG_sj85k0.jpg" alt="1"></p><h1 id="运输规划"><a href="#运输规划" class="headerlink" title="运输规划"></a>运输规划</h1><p><img src="/123/789.png" alt="2"></p><h1 id="运输枢纽规划与设计"><a href="#运输枢纽规划与设计" class="headerlink" title="运输枢纽规划与设计"></a>运输枢纽规划与设计</h1><p>今天讲了绪论，老师吹了一波交通运输专业，哈哈哈哈</p><p><img src="/123/741.png" alt="3"></p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><p>今天讲了第二章道路平面设计里面的平面线形要素</p><p>直线，圆曲线，缓和曲线</p><p><img src="/123/753.png" alt="3"></p><p>具体内容太多，在书上12-29页</p><h1 id="交通调查与分析"><a href="#交通调查与分析" class="headerlink" title="交通调查与分析"></a>交通调查与分析</h1><p><img src="/123/951.png" alt="4"></p><p>今天也是讲了绪论，课程主要内容为运输方面的社会经济调查、客运运输调查、货运运输调查三个方面</p><h1 id="交通工程"><a href="#交通工程" class="headerlink" title="交通工程"></a>交通工程</h1><p>讲了第二章，交通特性分析里面的道路交通三要素，人、车、路</p><p>人：出行者，交通规划、设计与管理者，交通系统的决策者</p><p>第一，驾驶人<br>视觉特性：书19-20页<br><img src="/123/78512.png" alt="5"></p><p>道路交通特性：分为量、质、形</p><p>其中量为路网密度，质为道路结构和道路线形，形为道路网布局（未讲，存疑）</p><p><img src="/123/566416.png" alt="6"></p><p>好了，以上内容基本为今日之收获，但仍存在不足，往以后改正</p><h1 id="最后结尾"><a href="#最后结尾" class="headerlink" title="最后结尾"></a>最后结尾</h1><p><img src="/123/125518_1095904220_4_922_989.jpg" alt="7"></p><p>希望这个总结系列可以坚持下去！！！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;开学第二天，也是5节课，不过还算可以，（上课很舒服，啊哈哈哈哈哈哈哈哈）&lt;br&gt;
     
     </summary>
     
