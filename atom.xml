@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-06T13:40:20.315Z</updated>
+  <updated>2018-10-08T13:30:31.228Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10.8日总结</title>
+    <link href="http://yoursite.com/2018/10/08/10-8%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/10/08/10-8日总结/</id>
+    <published>2018-10-08T13:04:42.000Z</published>
+    <updated>2018-10-08T13:30:31.228Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于迎来开学后的第一更，不知道大家有没有想我（虽然没有几个人）！！！</p><a id="more"></a><p>话不多说，进入正题吧！</p><h1 id="运输组织学"><a href="#运输组织学" class="headerlink" title="运输组织学"></a>运输组织学</h1><h2 id="各种公式"><a href="#各种公式" class="headerlink" title="各种公式"></a>各种公式</h2><p>主挂合计周转量=日历天数X营运车数X工作率X平均车日行程X里程利用率X平均吨位X吨（座）位利用率X1/(1-托运率)</p><p>主车完成周转量=日历天数X营运车数X工作率X平均车日行程X里程利用率X平均吨位X吨（座）位利用率</p><p>总车公里=日历天数X营运车数X工作率X平均车日行程</p><p>载运系数=里程利用率X平均吨位X吨（座）位利用率X1/托运率</p><p>运输效率=总车公里X载运系数</p><h2 id="时间利用指标"><a href="#时间利用指标" class="headerlink" title="时间利用指标"></a>时间利用指标</h2><p>完好率=完好车日/营运车日</p><p>工作率=工作车日/营运车日=营运车日-非完好车日-停驶车日/营运车日</p><p>平均每日出车时间=计算期内出车时间总和/工作车日</p><p>出车时间利用系数=计算期内纯运行时间/同期出车时间</p><p>昼夜时间利用系数=平均每日出车时间/24</p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><p><img src="/123/fdbfdbf.png" alt="1"></p><h1 id="汽车运输企业经营管理"><a href="#汽车运输企业经营管理" class="headerlink" title="汽车运输企业经营管理"></a>汽车运输企业经营管理</h1><p>见 书P91-96页</p><h1 id="交通工程"><a href="#交通工程" class="headerlink" title="交通工程"></a>交通工程</h1><p>跟驰理论</p><p>流体动力学模拟理论</p><p>见书P82-89页</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>开始享受每日复习高数的旅程！！！</p><p>附小鞠婧祎！！！</p><p><img src="/123/img-390d52cc2ac85553d19944282a1d91b9.jpg" alt="3"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;终于迎来开学后的第一更，不知道大家有没有想我（虽然没有几个人）！！！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
+    
+    
+      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
+    
+  </entry>
   
   <entry>
     <title>词汇使用原则</title>
@@ -424,28 +446,6 @@
     <summary type="html">
     
       &lt;p&gt;emmmm，今天9月10号，首先祝所有的老师教师节快乐！！！&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9.7日总结</title>
-    <link href="http://yoursite.com/2018/09/07/9-7%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2018/09/07/9-7日总结/</id>
-    <published>2018-09-07T04:43:33.000Z</published>
-    <updated>2018-09-07T08:32:43.986Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天就是周五了，转眼就开学一周了，收获有很多，感觉专业知识就是不一样，更注重的是一种实际的应用而不是死板的套公式那种，还很开心的了！！！</p><a id="more"></a><p>在开始之前先发两张学校的美图！！</p><p><img src="/123/nhgngngf.png" alt="1"></p><h1 id="交通调查与分析"><a href="#交通调查与分析" class="headerlink" title="交通调查与分析"></a>交通调查与分析</h1><h2 id="科学研究概览"><a href="#科学研究概览" class="headerlink" title="科学研究概览"></a>科学研究概览</h2><p>提出问题   问题背景研究   构建问题假设   设计实验   执行实验   分析结果   分享结果</p><p>分析结果到构建问题假设循环，进行检查</p><h2 id="工程设计概览"><a href="#工程设计概览" class="headerlink" title="工程设计概览"></a>工程设计概览</h2><p>定义问题   问题背景研究   明确设计需求   论证设计方案   设计原型   构建原型   测试原型   投入生产</p><p>测试原型到论证设计方案循环，进行检查</p><h2 id="数据获取的方法"><a href="#数据获取的方法" class="headerlink" title="数据获取的方法"></a>数据获取的方法</h2><p>资料法   文献法   实验法   观察法   调查法   案例法   仿真法</p><h2 id="调查与调查方法"><a href="#调查与调查方法" class="headerlink" title="调查与调查方法"></a>调查与调查方法</h2><p>调查是一种通过设置题项，获取被试特定信息的数据获取技术。（研究方法）</p><p>调查方法是提高调查数据准确性的调查规范及相关技术。（技术手段，服务于调查）</p><h1 id="运输企业经营管理"><a href="#运输企业经营管理" class="headerlink" title="运输企业经营管理"></a>运输企业经营管理</h1><h2 id="汽车运输企业特征"><a href="#汽车运输企业特征" class="headerlink" title="汽车运输企业特征"></a>汽车运输企业特征</h2><p>社会性  社会责任<br>经济性  以盈利为目的<br>服务性  服务社会<br>能动性<br>竞争性  相互</p><h2 id="汽车运输企业类型"><a href="#汽车运输企业类型" class="headerlink" title="汽车运输企业类型"></a>汽车运输企业类型</h2><h3 id="按营运组织形式划分"><a href="#按营运组织形式划分" class="headerlink" title="按营运组织形式划分"></a>按营运组织形式划分</h3><p>公用型<br>专用型<br>自用型</p><h3 id="按运输生产类型划分"><a href="#按运输生产类型划分" class="headerlink" title="按运输生产类型划分"></a>按运输生产类型划分</h3><h3 id="按企业经济性质划分"><a href="#按企业经济性质划分" class="headerlink" title="按企业经济性质划分"></a>按企业经济性质划分</h3><p>国有<br>集体<br>私营<br>中外合资<br>中外合作<br>股份制</p><h2 id="汽车运输企业的基本问题与基本活动"><a href="#汽车运输企业的基本问题与基本活动" class="headerlink" title="汽车运输企业的基本问题与基本活动"></a>汽车运输企业的基本问题与基本活动</h2><h3 id="基本问题"><a href="#基本问题" class="headerlink" title="基本问题"></a>基本问题</h3><p>生产什么 市场需求问题<br>为谁生产 市场对象问题<br>生产多少 市场潜力与企业能力问题<br>怎样生产 市场要求与企业运作问题</p><h3 id="基本活动"><a href="#基本活动" class="headerlink" title="基本活动"></a>基本活动</h3><p>经营活动 经营管理<br>生产活动 生产管理<br>财务活动 财务管理<br>人事活动 人力资源管理<br>技术活动 技术管理</p><h3 id="汽车运输企业生产经营特点"><a href="#汽车运输企业生产经营特点" class="headerlink" title="汽车运输企业生产经营特点"></a>汽车运输企业生产经营特点</h3><p>服务性<br>波动性<br>无形性与异质性<br>超前性<br>开放性</p><h2 id="汽车运输企业系统"><a href="#汽车运输企业系统" class="headerlink" title="汽车运输企业系统"></a>汽车运输企业系统</h2><p>汽车运输企业系统是由相互依赖的运输生产要素组成的，具有一定的运输生产经营能力，与外部经营环境密切相关联的人机结合系统。</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>好了，今日总结就算完了，按照惯例，再来一张小鞠的photo！！</p><p><img src="/123/FB_IMG_1536298190422.jpg" alt="3"><br><img src="/123/img-1257bb1786e24d2d4dcbb61dd935da27.jpg" alt="2"></p><p>溜了溜了，明天见！！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天就是周五了，转眼就开学一周了，收获有很多，感觉专业知识就是不一样，更注重的是一种实际的应用而不是死板的套公式那种，还很开心的了！！！&lt;/p&gt;
     
     </summary>
     
