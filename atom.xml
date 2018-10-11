@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-10T09:36:07.333Z</updated>
+  <updated>2018-10-11T10:58:19.755Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10.11日总结</title>
+    <link href="http://yoursite.com/2018/10/11/10-11%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/10/11/10-11日总结/</id>
+    <published>2018-10-11T10:29:23.000Z</published>
+    <updated>2018-10-11T10:58:19.755Z</updated>
+    
+    <content type="html"><![CDATA[<p>许愿你每天的心情如画般美妙</p><a id="more"></a><h1 id="运输规划"><a href="#运输规划" class="headerlink" title="运输规划"></a>运输规划</h1><h2 id="运输需求分布"><a href="#运输需求分布" class="headerlink" title="运输需求分布"></a>运输需求分布</h2><p>出行分布量：小区i与小区j之间平均单位时间内的出行量</p><p>出行分布矩阵（简称PA矩阵）   基于起讫点的出行分布矩阵（简称OD矩阵）</p><p>出行分布预测：增长率法、构造模型法</p><h3 id="增长率法"><a href="#增长率法" class="headerlink" title="增长率法"></a>增长率法</h3><p>统一增长率法<br>平均增长率法</p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><p><img src="/123/fgkhjgfdgriog.png" alt="1"></p><p>其余的还有书上的公式等</p><h1 id="运输枢纽规划与设计"><a href="#运输枢纽规划与设计" class="headerlink" title="运输枢纽规划与设计"></a>运输枢纽规划与设计</h1><h2 id="公路集装箱货运站设计"><a href="#公路集装箱货运站设计" class="headerlink" title="公路集装箱货运站设计"></a>公路集装箱货运站设计</h2><h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><p>集装箱及货物的运输组织管理：<br>生产组织与管理<br>货源组织与管理<br>运力组织与管理<br>运行组织与管理<br>参与公路货运市场管理</p><p>中转换装功能<br>装卸储存功能<br>多式联运和运输代理功能<br>通信信息功能<br>综合服务功能</p><h3 id="工艺组织"><a href="#工艺组织" class="headerlink" title="工艺组织"></a>工艺组织</h3><p>详见书P162-166页</p><h3 id="选址与建设要求"><a href="#选址与建设要求" class="headerlink" title="选址与建设要求"></a>选址与建设要求</h3><p>书P167页</p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><h2 id="路面设计与施工"><a href="#路面设计与施工" class="headerlink" title="路面设计与施工"></a>路面设计与施工</h2><h3 id="对路面的要求"><a href="#对路面的要求" class="headerlink" title="对路面的要求"></a>对路面的要求</h3><p>足够的强度和刚度<br>良好的稳定性<br>耐久性<br>表面平整度<br>表面抗滑性和耐磨性<br>不透水性<br>低噪声和少尘性</p><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><p>柔性路面<br>刚性路面</p><h2 id="沥青路面设计"><a href="#沥青路面设计" class="headerlink" title="沥青路面设计"></a>沥青路面设计</h2><p>书P190-206页</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;许愿你每天的心情如画般美妙&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
+    
+    
+      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
+    
+  </entry>
   
   <entry>
     <title>10.10日总结</title>
@@ -424,28 +446,6 @@
     <summary type="html">
     
       &lt;p&gt;今天很不爽啊，电脑更新 WIN10 系统，中午更了两个小时，加上晚上2小时才更新完成，真是难受！！！&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9.12日总结</title>
-    <link href="http://yoursite.com/2018/09/12/9-12%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2018/09/12/9-12日总结/</id>
-    <published>2018-09-12T11:24:23.000Z</published>
-    <updated>2018-09-12T11:36:13.870Z</updated>
-    
-    <content type="html"><![CDATA[<p>You still have a lot of time to make yourself be what you want if you are willing right now.</p><a id="more"></a><p>今天只上了一节课，时间比较充裕，但你问为什么晚上才开始总结？~要复习C语言啊，周末就要考计算机二级了，希望自己这次一定要切记，要把代码编译运行，否则大题零分！！！！</p><p>本来按照惯例呢，这里是应该有几张小鞠的照片的，但是很遗憾呐，她这几天没有发微博，木有自拍呀！！！就先这样吧</p><p>好，下面进入正题</p><h1 id="运输组织学"><a href="#运输组织学" class="headerlink" title="运输组织学"></a>运输组织学</h1><p><img src="/123/hmgfnsgej.png" alt="1"></p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>哎，最近比较累，先是C语言考试，又要开始准备考研，背单词，下周开始，又要开始复习数学，真是让人头大，不过我相信，我所做的一切事情都是值得的，我愿意为了得到自己想要的东西而付出努力，这就够了！！！</p><p>一定要背单词！<br>一定要背单词！<br>一定要背单词！</p><p>重要的事情说三遍！！！！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;You still have a lot of time to make yourself be what you want if you are willing right now.&lt;/p&gt;
     
     </summary>
     
