@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-11T10:58:19.755Z</updated>
+  <updated>2018-10-12T09:45:18.564Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高数知识点（三）</title>
+    <link href="http://yoursite.com/2018/10/12/%E9%AB%98%E6%95%B0%E7%9F%A5%E8%AF%86%E7%82%B9%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/10/12/高数知识点（三）/</id>
+    <published>2018-10-12T08:32:50.000Z</published>
+    <updated>2018-10-12T09:45:18.564Z</updated>
+    
+    <content type="html"><![CDATA[<p>总结个别定理及概念</p><a id="more"></a><h1 id="无穷级数"><a href="#无穷级数" class="headerlink" title="无穷级数"></a>无穷级数</h1><h2 id="性质"><a href="#性质" class="headerlink" title="性质"></a>性质</h2><p>在级数中去掉、加上或改变有限项，不会改变级数的收敛性<br>如果级数收敛，则对这级数的项任意加括号后所成的级数仍收敛，且其和不变<br>如果级数收敛，则它的一般项趋于0，（级数收敛的必要条件）</p><h2 id="常数项级数的审敛法"><a href="#常数项级数的审敛法" class="headerlink" title="常数项级数的审敛法"></a>常数项级数的审敛法</h2><p>部分和数列有界，级数收敛（必须为正项级数）</p><p>比较审敛法：通项小于等于一个收敛级数的通项则原级数收敛；通项大于等于一个发散级数的通项则原级数发散</p><p>比较审敛法（极限形式）：通项是一个收敛级数通项的高阶或同阶无穷小则原级数收敛；通项是一个发散级数通项的低阶或同阶无穷小则原级数发散</p><p>达朗贝尔判别法（比值审敛法）：通项后一项比前一项的极限大于1时，原级数发散；小于1时收敛；等于1时无法判断</p><p>柯西判别法（根植审敛法）：通项开n次方的极限大于1时，原级数发散；小于1时收敛</p><p>极限审敛法：n乘通项的极限大于0，原级数发散；p&gt;1，且n^p乘通项的极限大于等于0，原级数收敛</p><h2 id="交错级数的审敛法"><a href="#交错级数的审敛法" class="headerlink" title="交错级数的审敛法"></a>交错级数的审敛法</h2><p>莱布尼茨定理：通项递减，通项趋于0</p><h2 id="绝对收敛与条件收敛"><a href="#绝对收敛与条件收敛" class="headerlink" title="绝对收敛与条件收敛"></a>绝对收敛与条件收敛</h2><p>通项加绝对值收敛，原级数绝对收敛</p><p>通项加绝对值发散，原级数收敛，则原级数条件收敛</p><p>性质：绝对收敛必收敛</p><h2 id="幂级数"><a href="#幂级数" class="headerlink" title="幂级数"></a>幂级数</h2><p>阿贝尔定理：幂级数在x=x0时收敛，则在(-x0,x0)内一切x使其绝对收敛；幂级数在x=x0时发散，则在(负无穷,x0)，(x0,正无穷)内一切x使其发散</p><p>通过比值审敛法求收敛半径</p><h2 id="傅里叶级数"><a href="#傅里叶级数" class="headerlink" title="傅里叶级数"></a>傅里叶级数</h2><p><img src="/123/sdrgrjherh.png" alt="1"></p><h1 id="待续"><a href="#待续" class="headerlink" title="待续"></a>待续</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;总结个别定理及概念&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="考研" scheme="http://yoursite.com/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+      <category term="高数" scheme="http://yoursite.com/tags/%E9%AB%98%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>10.11日总结</title>
@@ -424,28 +446,6 @@
     <summary type="html">
     
       &lt;p&gt;最近不知道怎么滴，莫名其妙感觉很累，不是身体上的累，倒更像是心理上的累，，，，&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="大学" scheme="http://yoursite.com/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="simple" scheme="http://yoursite.com/tags/simple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9.13日总结</title>
-    <link href="http://yoursite.com/2018/09/13/9-13%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>http://yoursite.com/2018/09/13/9-13日总结/</id>
-    <published>2018-09-13T13:04:01.000Z</published>
-    <updated>2018-09-13T14:04:32.826Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天很不爽啊，电脑更新 WIN10 系统，中午更了两个小时，加上晚上2小时才更新完成，真是难受！！！</p><a id="more"></a><p>哎，其实本来今天想拖更的，但是一想到要学习，连大脑都一惊，不自主地就开始写这篇文章了，emmm好吧，今天也要庆祝一下我喜欢鞠婧祎同学粉丝破1001万，啊哈哈，我记得从7月份开始看她的芸汐传，当时也就500多万粉丝，这个涨粉速度也是很快了！！！</p><p>好了，废话不多说，先发上两张新鲜的自拍，哈哈哈，弥补一下昨天的</p><p><img src="/123/img-fd593074f22fb53d18db86cf46fe4705.jpg" alt="1"><br><img src="/123/img-dab20f8dgy1fv7qdzujx3g20k00qohe2.gif" alt="2"></p><p>进入正题！！</p><h1 id="运输规划"><a href="#运输规划" class="headerlink" title="运输规划"></a>运输规划</h1><h2 id="基本原理"><a href="#基本原理" class="headerlink" title="基本原理"></a>基本原理</h2><p>交通现象是一种经济地理现象，影响经济地理现象的因素可以分为三大类：地理的、社会经济的、科学技术的。</p><h3 id="交通区位"><a href="#交通区位" class="headerlink" title="交通区位"></a>交通区位</h3><p>区位概念可以从两个不同的角度来理解</p><p>观察角度：区位是某种经济地理现象在地理上的高发地区（或场所）。更准确的说，区位就是某种经济地理现象在地理上大概率出现的地区<br>操作角度：为达到特定经济目标，要把研究的经济地理项目设置在能达到目标的一定范围内的地理位置上。这种一定范围内的地理位置就是一种区位</p><p>借此，我们引出交通区位的两种解释：</p><p>观察角度：交通区位是交通现象在地理上的高发（或大概率）场所<br>操作角度：为达到某种经济目标，将交通线或站等项目设置在能达到目标的一定范围内的地理位置，这个位置就是交通区位</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>交通区位线只是一条大概率发生交通的原理线，其中不包含任何工程实物内容。<br>交通区位线是由一些联系相邻节点（城、镇等）的直线构成的折线来表示的<br>交通区位线只是一条地理上高发的交通运输线的“座位线”，并没有特指哪一种运输方式<br>在交通区位线上建设哪种运输方式的交通线、线路的等级等都是可以发生变化的</p><h4 id="交通线的吸引特性"><a href="#交通线的吸引特性" class="headerlink" title="交通线的吸引特性"></a>交通线的吸引特性</h4><p>见书P30-32页</p><h1 id="技术经济学"><a href="#技术经济学" class="headerlink" title="技术经济学"></a>技术经济学</h1><h2 id="利息和利率"><a href="#利息和利率" class="headerlink" title="利息和利率"></a>利息和利率</h2><p>书P21页</p><h2 id="单利和复利"><a href="#单利和复利" class="headerlink" title="单利和复利"></a>单利和复利</h2><p>书P22页</p><h2 id="名义利率和实际利率"><a href="#名义利率和实际利率" class="headerlink" title="名义利率和实际利率"></a>名义利率和实际利率</h2><p>书P23-24页</p><h2 id="资金等值计算"><a href="#资金等值计算" class="headerlink" title="资金等值计算"></a>资金等值计算</h2><p>着重记6个公式，以及公式含义 ，见书P27-31页</p><h1 id="运输枢纽规划与设计"><a href="#运输枢纽规划与设计" class="headerlink" title="运输枢纽规划与设计"></a>运输枢纽规划与设计</h1><h2 id="公路运输枢纽规划的内涵"><a href="#公路运输枢纽规划的内涵" class="headerlink" title="公路运输枢纽规划的内涵"></a>公路运输枢纽规划的内涵</h2><p>布局规划：站在国家或经济区域的层面，以包含多个公路运输枢纽的经济区域为研究对象</p><p>总体规划：站在城市或城市群落的层面，在公路运输枢纽的载体所辖范围内，确定所需建设公路运输站场的位置、数量、等级、规模、建设序列及运营系统设计等，通过公路运输枢纽内的公路运输站场布局使各公路运输站场分工明确、联系紧密</p><h2 id="汽车客运站设计"><a href="#汽车客运站设计" class="headerlink" title="汽车客运站设计"></a>汽车客运站设计</h2><h3 id="选址条件"><a href="#选址条件" class="headerlink" title="选址条件"></a>选址条件</h3><p>见书P137页</p><h3 id="设施建设要求"><a href="#设施建设要求" class="headerlink" title="设施建设要求"></a>设施建设要求</h3><p>书P137-141页，着重看表格</p><h1 id="道路工程"><a href="#道路工程" class="headerlink" title="道路工程"></a>道路工程</h1><h2 id="道路纵断面设计"><a href="#道路纵断面设计" class="headerlink" title="道路纵断面设计"></a>道路纵断面设计</h2><p>纵断面：用一曲面沿道路中线竖直剖切，展开所成的平面</p><h3 id="纵坡设计"><a href="#纵坡设计" class="headerlink" title="纵坡设计"></a>纵坡设计</h3><p>见书P42-47页</p><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>好吧，我承认最近几天有点偷懒，好多内容我都直接写见书XXX页，虽然也属于一种对知识的巩固，但是还是觉得有点不太好，不过也还可以吧，就那样了</p><p>不过一定要记住，必须每天背单词，必须每天背单词，必须每天背单词，重要的事情说三遍！！！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天很不爽啊，电脑更新 WIN10 系统，中午更了两个小时，加上晚上2小时才更新完成，真是难受！！！&lt;/p&gt;
     
     </summary>
     
